@@ -1,5 +1,6 @@
 export OUT_DIR=/output
 echo "output dir is: $OUT_DIR"
+cd /workspace
 . build/envsetup.sh
 
 # lunch aosp_rpi4-ap2a-userdebug
