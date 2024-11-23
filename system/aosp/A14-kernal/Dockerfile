@@ -14,9 +14,11 @@ RUN apt update && \
     curl -o ${REPO} https://storage.googleapis.com/git-repo-downloads/repo && \
     gpg --recv-keys 8BB9AD793E8E6153AF0F9A4416530D5E920F5C65 && \
     curl -s https://storage.googleapis.com/git-repo-downloads/repo.asc | gpg --verify - ${REPO} && install -m 755 ${REPO} /bin/repo && \
+    git config --global user.email "wangziji@gmial.com" && \
+    git config --global user.name "wangziji" && \
     mkdir /workspace && cd /workspace && \
+    yes | repo init -u https://android.googlesource.com/kernel/manifest -b common-android14-6.1-lts && \
     curl -o .repo/local_manifests/manifest_brcm_rpi.xml -L https://raw.githubusercontent.com/raspberry-vanilla/android_kernel_manifest/android-14.0/manifest_brcm_rpi.xml --create-dirs && \
-    repo init -u https://android.googlesource.com/kernel/manifest -b common-android14-6.1-lts && \
     repo sync -j$(nproc)
 
 COPY ./build.sh /workspace
