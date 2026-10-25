@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Analog Devices",
+  "model": "LT3045",
+  "source_url": "https://www.analog.com/media/en/technical-documentation/data-sheets/3045fa.pdf",
+  "final_url": "https://www.analog.com/media/en/technical-documentation/data-sheets/LT3045.pdf",
+  "retrieved_at_utc": "2026-10-22T09:02:29.076262+00:00",
+  "status": "verified",
+  "file": "LT3045.pdf",
+  "content_type": "application/pdf",
+  "sha256": "9132e595759a58a0920e7c63997872df02ca9ce598ead76c6f7a31051405eba6",
+  "page_count": 32,
+  "title": "LT3045 — 20V, 500mA, Ultralow Noise, Ultrahigh PSRR Linear Regulator",
+  "revision": "D",
+  "revision_markers": [
+    "Rev. D"
+  ],
+  "validation": {
+    "pdf_signature": true,
+    "all_pages_parsed": true,
+    "model_in_extracted_text": true,
+    "extracted_character_count": 76429,
+    "parser_warnings": [
+      "pypdf reported a non-zero-indexed xref table and corrected object ID indexing; strict parse and text extraction succeeded on all 32 pages."
+    ]
+  },
+  "retrieval_notes": "Initial official-source downloads were truncated; retry using the canonical official LT3045.pdf URL completed. No incomplete PDF retained."
+}

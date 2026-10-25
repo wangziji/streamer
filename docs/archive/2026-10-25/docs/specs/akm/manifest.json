@@ -1,0 +1,315 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-22T09:00:46.574752+00:00",
+  "scope": "Official AKM candidate documentation only; downloads do not select or approve parts. Product briefs and quality specifications are supplemental and do not replace complete electrical datasheets.",
+  "source_product_pages": [
+    "https://www.akm.com/us/en/products/audio/audio-dac/ak4499exeq/",
+    "https://www.akm.com/us/en/products/audio/audio-dac/ak4191eq/"
+  ],
+  "documents": [
+    {
+      "id": "ak4499exeq-datasheet",
+      "title": "AK4499EXEQ datasheet",
+      "listed_document_version": "220600017-E-00",
+      "listed_pages": 54,
+      "status": "downloaded",
+      "local_file": "ak4499exeq-datasheet.pdf",
+      "sha256": "f69c1c82235a0d7bb3641f493e7f01e517f920bf885cf7ef61904f116a561ac0",
+      "pages": 54,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-datasheet-myakm.pdf",
+          "http_status": 200,
+          "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-datasheet-myakm.pdf",
+          "content_type": "application/pdf",
+          "result": "validated_pdf"
+        }
+      ],
+      "download_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-datasheet-myakm.pdf",
+      "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-datasheet-myakm.pdf",
+      "bytes": 2129910,
+      "pdf_title": "AK4499EX English Datasheet",
+      "pdf_author": "Asahi Kasei Microdevices Corporation",
+      "pdf_version": "1.7",
+      "first_pages_text_excerpt": "  [AK4499EX] \n220600017-E-00  2022/07 \n - 1 - \n \n  \n  \n \n \n \n1. General Description  \nThe AK4499EX is a new concept Premium multi-bit Stereo DAC with newly developed Switched Resistor \ntechnology, achieving the industry’s leading level low distortion and low noise characteristics. It is suitable \nfor playback of high-resolution audio sources that are becoming widespread in Network Audio and USB-\nDACs Audio systems. Multi-bit Modulator input for a high-precision audio source playback. \n \nApplication: AV Receivers, CD/SACD player, Network Audios, USB DACs, USB Headphones, \nMeasurement Equipment, Control Systems, Public Audios (PA) \n \n2. Features \n• Stereo Switched Resistor DAC \n• THD+N: -124 dB \n• Dynamic Range, S/N: 138 dB (135 dB @Stereo)  \n• Multi-bit Modulator Data Interface with 5.6448, 11.2896 MHz Clock \n- 7-bit Modulator Data  \n• Mono Mode \n• Power Supply:  \nTVDD = DVDD to 3.6 V, DVDD = 1.7 to 1.98 V, \nAVDD = 4.75 to 5.25 V, VDDL/R = 4.75 to 5.25 V \n• Digital Input Level: CMOS \n• Package: 64-pin HTQFP \n• Temperature: -40 to 85 C \n \n   \n \n \nPremium Switched Resistor Stereo DAC \n \nAK4499EX \n\n  [AK4499EX] \n220600017-E-00  2022/07 \n - 2 - \n3. Table of Contents  \n \n1. General Description ............................................................................................................................ 1 \n2. Features ....................................................",
+      "validation": {
+        "pdf_magic": true,
+        "pdfinfo": true,
+        "pypdf_page_count": 54,
+        "text_extracted": true
+      },
+      "document_version_in_pdf": [
+        "220600017-E-00"
+      ],
+      "document_date_in_pdf": [
+        "2022/07"
+      ],
+      "sha256_verified": true
+    },
+    {
+      "id": "ak4191eq-datasheet",
+      "title": "AK4191EQ datasheet",
+      "listed_document_version": "200900053-E-01",
+      "listed_pages": 130,
+      "status": "downloaded",
+      "local_file": "ak4191eq-datasheet.pdf",
+      "sha256": "da2dd9c9dad92836cb839ebba6f0d5295ed5ce8ecd02a2b5f23ddaf39742fdea",
+      "pages": 130,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-datasheet-myakm.pdf",
+          "http_status": 200,
+          "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-datasheet-myakm.pdf",
+          "content_type": "application/pdf",
+          "result": "validated_pdf"
+        }
+      ],
+      "download_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-datasheet-myakm.pdf",
+      "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-datasheet-myakm.pdf",
+      "bytes": 6924417,
+      "pdf_title": "AK4191 English Datasheet",
+      "pdf_author": "Asahi Kasei Microdevies Corporation",
+      "pdf_version": "1.7",
+      "first_pages_text_excerpt": "   [AK4191] \n200900053-E-01   2022/01 \n - 1 - \n \n  \n \n \n \n \n \n1. General Description  \nThe AK4191 is a 7-bit Stereo Digital Delta-Sigma Modulator, achieving high quality sound reproduction. \nIt corresponds to a 1536kHz PCM input and an DSD1024 input at maximum, suitable for playback of \nhigh resolution audio sources that are becoming widespread in Network Audio and USB-DACs Audio \nsystems. In addition, it is capable of supporting a wide range of signals and achieving low out-of-band \nnoise. The AK4191 has six types of digital filters, realizing simple and flexible sound reproduction in \nwide range of applications. \n \n2. Features \n \n• Digital Delta-Sigma Modulator \n- Selectable 5, 6 or 7-bits Modulator Data output \n- Four selectable types of Delta-Sigma Modulator Option  \n• 256×/128× Over Sampling \n• Input Sampling Rate: 44.1 kHz to 1536 kHz (PCM, EXDF) \n• 256×/128× Digital Filter \n- Ripple: ±0.001 dB, Attenuation: 150 dB (Sharp Roll-Off Filter Setting) \n- Six Types of High Quality Sound Filter Option \n･Short Delay Sharp Roll-off, GD = 9.0/fs \n･Short Delay Slow Roll-off, GD = 5.4/fs  \n･Sharp Roll-off \n･Slow Roll-off \n･Super Slow Roll-off \n･Low Dispersion Short Delay Filter \n･Programmable Filter \n• DSD64, DSD128, DSD256, DSD512, DSD1024 Input Support \nFilter1 (fc = 19 kHz, DSD64 mode)  \nFilter2 (fc = 39 kHz, DSD64 mode)  \n• Digital De-emphasis for 32, 44.1 and 48 kHz sampling \n• ",
+      "validation": {
+        "pdf_magic": true,
+        "pdfinfo": true,
+        "pypdf_page_count": 130,
+        "text_extracted": true
+      },
+      "document_version_in_pdf": [
+        "200900053-E-01"
+      ],
+      "document_date_in_pdf": [
+        "2022/01"
+      ],
+      "sha256_verified": true,
+      "note": "Complete datasheet is 200900053-E-01 (2022/01); public product brief is Rev.02 (2022/05). Confirm with AKM whether a newer complete datasheet exists before design freeze."
+    },
+    {
+      "id": "ak4499eq-datasheet",
+      "title": "AK4499EQ datasheet",
+      "listed_document_version": null,
+      "listed_pages": null,
+      "status": "blocked",
+      "local_file": null,
+      "sha256": null,
+      "pages": null,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499eq/ak4499eq-en-datasheet.pdf",
+          "result": "blocked",
+          "reason": "HTTP Error 404: Not Found"
+        }
+      ],
+      "blocker": "Official download unavailable at attempted public URL(s). Complete manuals are listed behind AKM request form; no form submitted, login bypass attempted, or third-party mirror used."
+    },
+    {
+      "id": "akd4499exeq-evb-manual",
+      "title": "AKD4499EXEQ evaluation board manual",
+      "listed_document_version": "KM136300",
+      "listed_pages": 53,
+      "status": "blocked",
+      "local_file": null,
+      "sha256": null,
+      "pages": null,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/akd4499exeq-en-evaluationboard-manual-myakm.pdf",
+          "result": "blocked",
+          "reason": "HTTP Error 404: Not Found"
+        }
+      ],
+      "blocker": "Official download unavailable at attempted public URL(s). Complete manuals are listed behind AKM request form; no form submitted, login bypass attempted, or third-party mirror used."
+    },
+    {
+      "id": "ak4191eq-ak4499exeq-application-note",
+      "title": "AK4191EQ / AK4499EXEQ application note",
+      "listed_document_version": "C018-01",
+      "listed_pages": 24,
+      "status": "downloaded",
+      "local_file": "ak4191eq-ak4499exeq-application-note.pdf",
+      "sha256": "5abc0f6fdc73cad3c9e1efd125ade66ee0180cf4f20e6adbc50f5c11131fb289",
+      "pages": 24,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-designtransition-myakm.pdf",
+          "http_status": 200,
+          "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-designtransition-myakm.pdf",
+          "content_type": "application/pdf",
+          "result": "validated_pdf"
+        }
+      ],
+      "download_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-designtransition-myakm.pdf",
+      "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-designtransition-myakm.pdf",
+      "bytes": 1064391,
+      "pdf_title": "AK4191 and AK4499EX Application Note",
+      "pdf_author": "Asahi Kasei Microdevices Corporation",
+      "pdf_version": "1.7",
+      "first_pages_text_excerpt": "  [AK4191 and AK4499EX] \nC018-01   2022/06 \n - 1 - \n \n  \n \n \n \n \n \n1. General Description  \n \nThis application note is intended to assist in designing systems using the AK4191 and the AK4499EX. \n \n2. Table of Contents  \n1. General Description ............................................................................................................................ 1 \n2. Table of Contents ................................................................................................................................ 1 \n3. Acronyms ............................................................................................................................................ 2 \n4. Basic instructions to be observed ....................................................................................................... 3 \n4.1. Device Connection Example and Basic instructions to be observed .......................................... 3 \n4.2. Register setting example ............................................................................................................. 5 \n5. Clock and Audio Input Signal Connections ......................................................................................... 6 \n5.1. Input Signal of AK4191 is not synchronized to MCLK distributed from AK4499EX side. ........... 6 \n5.2. Input Signal of the AK4191 is synchronized to MCLK distributed from the A",
+      "validation": {
+        "pdf_magic": true,
+        "pdfinfo": true,
+        "pypdf_page_count": 24,
+        "text_extracted": true
+      },
+      "document_version_in_pdf": [
+        "C018-01"
+      ],
+      "document_date_in_pdf": [
+        "2022/06"
+      ],
+      "sha256_verified": true
+    },
+    {
+      "id": "ak4499exeq-productbrief",
+      "title": "AK4499EXEQ product brief",
+      "listed_document_version": null,
+      "listed_pages": null,
+      "status": "downloaded",
+      "local_file": "ak4499exeq-productbrief.pdf",
+      "sha256": "dc0b381ed632be41bdbd0e979c340102f8e69c6d6f26ea1beea950d7e776d3ee",
+      "pages": 5,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-productbrief.pdf",
+          "http_status": 200,
+          "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-productbrief.pdf",
+          "content_type": "application/pdf",
+          "result": "validated_pdf"
+        }
+      ],
+      "download_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-productbrief.pdf",
+      "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-productbrief.pdf",
+      "bytes": 197454,
+      "pdf_title": "AK4499EX English Product Brief",
+      "pdf_author": "Asahi Kasei Microdevices Corporation",
+      "pdf_version": "1.7",
+      "first_pages_text_excerpt": "  [AK4499EX] \nE-01  [AK4499EX] \n - 1 - \n \n  \n  \n \n \n \n1. General Description  \nThe AK4499EX is a new concept Premium multi-bit Stereo DAC with newly developed Switched Resistor \ntechnology, achieving the industry’s leading level low distortion and low noise characteristics. It is suitable \nfor playback of high-resolution audio sources that are becoming widespread in Network Audio and USB-\nDACs Audio systems. Multi-bit Modulator input for a high-precision audio source playback. \n \nApplication: AV Receivers, CD/SACD player, Network Audios, USB DACs, USB Headphones, \nMeasurement Equipment, Control Systems, Public Audios (PA) \n \n2. Features \n• Stereo Switched Resistor DAC \n• THD+N: -124 dB \n• Dynamic Range, S/N: 138 dB, Mono Mode (135dB, Stereo Mode) \n• Multi-bit Modulator Data Interface with 5.6448, 11.2896 MHz Clock \n- 7-bit Modulator Data  \n• Mono Mode \n• Power Supply:  \nTVDD = 1.7 to 3.6 V, DVDD = 1.7 to 1.98 V, \nAVDD = 4.75 to 5.25 V, VDDL/R = 4.75 to 5.25 V \n• Digital Input Level: CMOS \n• Package: 64-pin HTQFP \n• Temperature: -40 to 85 C \n \n   \n \n \nPremium Switched Resist or Stereo DAC \n \nAK4499EX \n= Product Brief = \n \n  [AK4499EX] \nE-01  [AK4499EX] \n - 2 - \n3. Block Diagram and Functions  \n \n3.1. Block Diagram  \n \n \n \nModulator \n \nVCOMR \nVSSL \nVDDL \nVSSR \nVDDR \nEXTCLP \nEXTCLN \nOPINLN \nIOUTLN \nOPINLP \nIOUTLP \nVCOML  \n \n \n \nSR \nDAC \n \n \n \n \n \n \n \n \n \n \n \nDWA \nEXTCRP \nEXTCRP",
+      "validation": {
+        "pdf_magic": true,
+        "pdfinfo": true,
+        "pypdf_page_count": 5,
+        "text_extracted": true
+      },
+      "document_version_in_pdf": [
+        "E-01"
+      ],
+      "document_date_in_pdf": [],
+      "sha256_verified": true
+    },
+    {
+      "id": "ak4191eq-productbrief",
+      "title": "AK4191EQ product brief",
+      "listed_document_version": null,
+      "listed_pages": null,
+      "status": "downloaded",
+      "local_file": "ak4191eq-productbrief.pdf",
+      "sha256": "b2d25efbf38dd83bfab9dcbbebae78f9579c1c7837a7b00cb84c0c383a661c64",
+      "pages": 8,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-productbrief.pdf",
+          "http_status": 200,
+          "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-productbrief.pdf",
+          "content_type": "application/pdf",
+          "result": "validated_pdf"
+        }
+      ],
+      "download_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-productbrief.pdf",
+      "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-productbrief.pdf",
+      "bytes": 401320,
+      "pdf_title": "AK4191 Product Brief",
+      "pdf_author": "Asahi Kasei Microdevies Corporation",
+      "pdf_version": "1.7",
+      "first_pages_text_excerpt": "Rev. 02   2022/05 \n - 1 - \n \n  \n \n \n \n \n \n1. General Description  \nThe AK4191 is a 64-bit Stereo Digital Delta-Sigma Modulator, achieving high quality sound \nreproduction. It corresponds to a 1536kHz PCM input and an DSD1024 input at maximum, suitable for \nplayback of high resolution audio sources that are becoming widespread in Network Audio and USB-\nDACs Audio systems. In addition, it is capable of supporting a wide range of signals and achieving low \nout-of-band noise. The AK4191 has six types of 64-bit digital filters, realizing simple and flexible sound \nreproduction in wide range of applications. \n \n2. Features \n \n• Digital Delta-Sigma Modulator \n- 7-bit Modulator Data output \n- Delta-Sigma Modulator Option  \n• 256x/128x Over Sampling \n• Sampling Rate: 44.1 kHz to 1536 kHz (PCM, EXDF) \n• 64-bit 256x/128x Digital Filter \n- Ripple: ±0.001 dB, Attenuation: 150 dB (Sharp Roll-Off Filter Setting) \n- Six Types of High Quality Sound Filter Option \n･Short Delay Sharp Roll-off, GD = 9.0/fs \n･Short Delay Slow Roll-off, GD = 5.4/fs  \n･Sharp Roll-off \n･Slow Roll-off \n･Super Slow Roll-off \n･Low Dispersion Short Delay Filter \n･Programmable Filter \n• DSD64, DSD128, DSD256, DSD512, DSD1024 Input Support \nFilter1 (fc = 19 kHz, DSD64 mode)  \nFilter2 (fc = 39 kHz, DSD64 mode)  \n• Digital De-emphasis for 32, 44.1 and 48 kHz sampling \n• Soft Mute \n• Digital Attenuator (0 dB to -127 dB, 0.5 dB",
+      "validation": {
+        "pdf_magic": true,
+        "pdfinfo": true,
+        "pypdf_page_count": 8,
+        "text_extracted": true
+      },
+      "document_version_in_pdf": [
+        "Rev. 02"
+      ],
+      "document_date_in_pdf": [
+        "2022/05"
+      ],
+      "sha256_verified": true
+    },
+    {
+      "id": "ak4499exeq-qualityspecifications",
+      "title": "AK4499EXEQ quality specifications",
+      "listed_document_version": null,
+      "listed_pages": null,
+      "status": "downloaded",
+      "local_file": "ak4499exeq-qualityspecifications.pdf",
+      "sha256": "53361efa45ad3dd80da20141f4db0f324c145041896487ad9544f97ae12394e6",
+      "pages": 16,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4499exeq-en-qualityspecifications.pdf",
+          "http_status": 200,
+          "final_url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4499exeq-en-qualityspecifications.pdf",
+          "content_type": "application/pdf",
+          "result": "validated_pdf"
+        }
+      ],
+      "download_url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4499exeq-en-qualityspecifications.pdf",
+      "final_url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4499exeq-en-qualityspecifications.pdf",
+      "bytes": 771845,
+      "pdf_title": "Quality Specifications",
+      "pdf_author": "AKM QA",
+      "pdf_version": "1.7",
+      "first_pages_text_excerpt": "AK4499EXEQP-V_QS_e_2 \nASAHI KASEI MICRODEVICES \nQUALITY ASSURANCE CENTER \nAK4499EXEQ Quality Data\n１． Packing Specification \n２． Reliability Test Data \n３． ESD/Latch up Data \n４． Country Origin \n５． Soldering Methods and Handling Precautions \n６． Package Cross Section \n７． Failure Rate Estimation \n８． Land Pattern for reference \n９． Mounting Related Test Data \n＊ The marking and dimensional drawings  of our product described in this \ndocument (hereinafter referred to as the \"Product\") are shown in the datasheet \nof the Product. For any other information regarding Product not shown in this \ndocument, please make inquiries the sales office of us or authorized distributors. \nNOTICE \n0. We reserve the right to make changes to the information contained in this\ndocument without notice for data updates, format improvements, or other\nreasons. When you consider any use or application of our product stipulated in\nthis document (“Product”), please make inquiries the sales office of us or\nauthorized distributors as to current status of the Products.\n1. All information included in this docum ent are provided only to illustrate the\nquality data of our Products. We neither makes warranties or representations\nwith respect to the accuracy or completeness of the information contained in this\ndocument nor grants any license to any intellectual property rights or any other\nrights of us or any third party wi",
+      "validation": {
+        "pdf_magic": true,
+        "pdfinfo": true,
+        "pypdf_page_count": 16,
+        "text_extracted": true
+      },
+      "document_version_in_pdf": [
+        "AK4499EXEQP-V_QS_e_2"
+      ],
+      "document_date_in_pdf": [],
+      "sha256_verified": true
+    },
+    {
+      "id": "ak4191eq-qualityspecifications",
+      "title": "AK4191EQ quality specifications",
+      "listed_document_version": null,
+      "listed_pages": null,
+      "status": "downloaded",
+      "local_file": "ak4191eq-qualityspecifications.pdf",
+      "sha256": "099e8f803959441e1819df96c87898fbdf714974e0a49bf603e32ba9131e24fb",
+      "pages": 16,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4191eq-en-qualityspecifications.pdf",
+          "http_status": 200,
+          "final_url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4191eq-en-qualityspecifications.pdf",
+          "content_type": "application/pdf",
+          "result": "validated_pdf"
+        }
+      ],
+      "download_url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4191eq-en-qualityspecifications.pdf",
+      "final_url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4191eq-en-qualityspecifications.pdf",
+      "bytes": 1657473,
+      "pdf_title": "AK4191EQ Quality Specifications",
+      "pdf_author": "AKM QA",
+      "pdf_version": "1.7",
+      "first_pages_text_excerpt": "AK4191EQP-V_QS_e_2 \nASAHI KASEI MICRODEVICES \nQUALITY ASSURANCE CENTER \nAK4191EQ Quality Data\n１． Packing Specification \n２． Reliability Test Data \n３． ESD/Latch up Data \n４． Country Origin \n５． Soldering Methods and Handling Precautions \n６． Package Cross Section \n７． Failure Rate Estimation \n８． Land Pattern for reference \n９． Mounting Related Test Data \n＊ The marking and dimensional drawings  of our product described in this \ndocument (hereinafter referred to as the \"Product\") are shown in the datasheet \nof the Product. For any other information regarding Product not shown in this \ndocument, please make inquiries the sales office of us or authorized distributors. \nNOTICE \n0. We reserve the right to make changes to the information contained in this\ndocument without notice for data updates, format improvements, or other\nreasons. When you consider any use or application of our product stipulated in\nthis document (“Product”), please make inquiries the sales office of us or\nauthorized distributors as to current status of the Products.\n1. All information included in this docum ent are provided only to illustrate the\nquality data of our Products. We neither makes warranties or representations\nwith respect to the accuracy or completeness of the information contained in this\ndocument nor grants any license to any intellectual property rights or any other\nrights of us or any third party with r",
+      "validation": {
+        "pdf_magic": true,
+        "pdfinfo": true,
+        "pypdf_page_count": 16,
+        "text_extracted": true
+      },
+      "document_version_in_pdf": [
+        "AK4191EQP-V_QS_e_2"
+      ],
+      "document_date_in_pdf": [],
+      "sha256_verified": true
+    }
+  ]
+}

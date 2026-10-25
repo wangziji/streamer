@@ -1,0 +1,221 @@
+{
+  "checked_date": "2026-10-24",
+  "files": [
+    {
+      "file": "docs/specs/adi/LT3045.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://www.analog.com/media/en/technical-documentation/data-sheets/LT3045.pdf",
+      "bytes": 4667103,
+      "pdf_header": true,
+      "pages": 32,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/akm/ak4499exeq-datasheet.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-datasheet-myakm.pdf",
+      "bytes": 2129910,
+      "pdf_header": true,
+      "pages": 54,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/akm/ak4191eq-datasheet.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-datasheet-myakm.pdf",
+      "bytes": 6924417,
+      "pdf_header": true,
+      "pages": 130,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/akm/ak4191eq-ak4499exeq-application-note.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-designtransition-myakm.pdf",
+      "bytes": 1064391,
+      "pdf_header": true,
+      "pages": 24,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/akm/ak4499exeq-productbrief.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-productbrief.pdf",
+      "bytes": 197454,
+      "pdf_header": true,
+      "pages": 5,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/akm/ak4191eq-productbrief.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-productbrief.pdf",
+      "bytes": 401320,
+      "pdf_header": true,
+      "pages": 8,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/akm/ak4499exeq-qualityspecifications.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4499exeq-en-qualityspecifications.pdf",
+      "bytes": 771845,
+      "pdf_header": true,
+      "pages": 16,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/akm/ak4191eq-qualityspecifications.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4191eq-en-qualityspecifications.pdf",
+      "bytes": 1657473,
+      "pdf_header": true,
+      "pages": 16,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/crystek/CCHD-957.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://www.crystek.com/Specification/CCHD-957",
+      "bytes": 945406,
+      "pdf_header": true,
+      "pages": 2,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/raspberrypi/raspberry-pi-5-product-brief.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-008348-DS-8-raspberry-pi-5-product-brief.pdf",
+      "bytes": 52948347,
+      "pdf_header": true,
+      "pages": 7,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/raspberrypi/raspberry-pi-5-mechanical-drawing.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-008347-DS-1-raspberry-pi-5-mechanical-drawing.pdf",
+      "bytes": 174949,
+      "pdf_header": true,
+      "pages": 1,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/raspberrypi/pcie-connector-standard.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-008298-DS-1-pcie-connector-standard.pdf",
+      "bytes": 306360,
+      "pdf_header": true,
+      "pages": 10,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/raspberrypi/rp1-peripherals.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-008370-DS-1-rp1-peripherals.pdf",
+      "bytes": 3513008,
+      "pdf_header": true,
+      "pages": 93,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/raspberrypi/power-supplies.adoc",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://raw.githubusercontent.com/raspberrypi/documentation/master/documentation/asciidoc/computers/raspberry-pi/power-supplies.adoc",
+      "bytes": 9383
+    },
+    {
+      "file": "docs/specs/st/STM32G0B1xB-xC-xE.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://www.st.com/resource/en/datasheet/stm32g0b1cb.pdf",
+      "bytes": 3971768,
+      "pdf_header": true,
+      "pages": 165,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/ti/OPA1612.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://www.ti.com/lit/ds/symlink/opa1612.pdf",
+      "bytes": 1573947,
+      "pdf_header": true,
+      "pages": 34,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/ti/TS3USB221A.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://www.ti.com/lit/ds/symlink/ts3usb221a.pdf",
+      "bytes": 1462357,
+      "pdf_header": true,
+      "pages": 27,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/xmos/xu316-1024-datasheet.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://www.xmos.com/documentation/XM-015129-PC/pdf/XU316-1024.pdf",
+      "bytes": 2037526,
+      "pdf_header": true,
+      "pages": 117,
+      "pages_match": true
+    },
+    {
+      "file": "docs/specs/ti/BQ25798.pdf",
+      "sha256_matches": true,
+      "official_host": true,
+      "final_url": "https://www.ti.com/lit/ds/symlink/bq25798.pdf",
+      "bytes": 3331938,
+      "pdf_header": true,
+      "pages": 151,
+      "pages_match": true
+    }
+  ],
+  "blocked_records": [
+    {
+      "manifest": "docs/specs/akm/manifest.json",
+      "id": "ak4499eq-datasheet",
+      "status": "blocked"
+    },
+    {
+      "manifest": "docs/specs/akm/manifest.json",
+      "id": "akd4499exeq-evb-manual",
+      "status": "blocked"
+    },
+    {
+      "manifest": "docs/specs/raspberrypi/manifest.json",
+      "id": "raspberry-pi-hardware.html",
+      "status": "blocked"
+    },
+    {
+      "manifest": "docs/specs/raspberrypi/manifest.json",
+      "id": "BCM2712 and Raspberry Pi 5 full component-level electrical specification",
+      "status": "blocked"
+    },
+    {
+      "manifest": "docs/specs/xmos/manifest.json",
+      "id": "USB Audio User Guide / USB Audio reference designs",
+      "status": "blocked"
+    }
+  ],
+  "issues": [],
+  "cad_source_unchanged": true
+}
