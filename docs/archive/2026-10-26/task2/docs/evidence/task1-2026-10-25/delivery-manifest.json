@@ -1,0 +1,122 @@
+{
+  "baseline_version": "T1-2026-10-25-v2",
+  "checked_date": "2026-10-26",
+  "scope": "Task 1 documentation and manufacturer archive only",
+  "files": [
+    {
+      "path": "docs/design-clarifications.md",
+      "sha256": "2e5e9443b329d0be2cd1bdb2f9c9b967115ee17120d7fd701fa154ebb130a628",
+      "bytes": 6778
+    },
+    {
+      "path": "docs/specs/README.md",
+      "sha256": "54dcc8fecce7eae0a46a2cc352ad4b80197f20849a675952c67590ac2929f80d",
+      "bytes": 6743
+    },
+    {
+      "path": "docs/engineering/design-inputs.md",
+      "sha256": "5bc474d780ccaea29286a4d709baef58c9f55f2bc84176dbdaa06f426a0bace5",
+      "bytes": 11744
+    },
+    {
+      "path": "docs/engineering/traceability.csv",
+      "sha256": "dbdc84543e0c244d1eb0ca1c147eda4e2ecea1ece28e731c50f7ddab14f17cf4",
+      "bytes": 22569
+    },
+    {
+      "path": "docs/progress-2026-10-25.md",
+      "sha256": "c7ecf06484b798b6883064b14295065b3a9e2c97324db6ee1589935c4061f59f",
+      "bytes": 3610
+    },
+    {
+      "path": "docs/superpowers/plans/2026-10-25-streamer-implementation.md",
+      "sha256": "aeeac9279a177a87b5b0f7f8a5b5cc25c89d0b38203d4ce5833e304e80552f43",
+      "bytes": 26570
+    },
+    {
+      "path": "docs/specs/ti/manifest.json",
+      "sha256": "ebcc4907801e168f3b96fe245990bd90b0333b4195d455936258e94193db819e",
+      "bytes": 4456
+    },
+    {
+      "path": "docs/specs/st/manifest.json",
+      "sha256": "c5557fb5c3c8ac7db9723ca3b235fb4b09d4a2fb4cd2b59b1838c4295e5e11ee",
+      "bytes": 2724
+    },
+    {
+      "path": "docs/specs/xmos/manifest.json",
+      "sha256": "8551590dbb9a70979bd4ab27206f4adadd75bb67dd47c49bc6018ade520f2316",
+      "bytes": 2426
+    },
+    {
+      "path": "docs/specs/rrc/manifest.json",
+      "sha256": "555efd30c2c86da5d791b305243830333671a9cf86f3965c90a9390a2d189557",
+      "bytes": 1985
+    },
+    {
+      "path": "docs/specs/ti/BQ76952.pdf",
+      "sha256": "5d89ba9a52308a06a4361157e715061cf4f9e7292990248d4d6b66123156e3a9",
+      "bytes": 4107435
+    },
+    {
+      "path": "docs/specs/ti/TPS55288.pdf",
+      "sha256": "2b60a3054038493ae5dcdeb58d1f87c27397a886c60a8696376fa6e4d594dfbc",
+      "bytes": 3726365
+    },
+    {
+      "path": "docs/specs/rrc/RRC2054-technical.pdf",
+      "sha256": "368da265c706e17644a8a1662d742942a53509e006c86f81e0d9676f73ba0281",
+      "bytes": 346288
+    },
+    {
+      "path": "docs/specs/rrc/RRC2054-2-datasheet.pdf",
+      "sha256": "49a746b170e66a4852c3a25c5eeb143e254276060669f41d4c6e8c3f6bd6a0de",
+      "bytes": 1003357
+    },
+    {
+      "path": "docs/specs/st/RM0444.pdf",
+      "sha256": "0b9146260790b48735631e7735c60c42b900415c7b519ee7623c10e3d96faec3",
+      "bytes": 17180597
+    },
+    {
+      "path": "docs/specs/st/ES0548.pdf",
+      "sha256": "4ffa38122d3a686c859e01d087528aea0fa1457e5fae3bf2acae974c901ed2e5",
+      "bytes": 1398648
+    },
+    {
+      "path": "docs/evidence/task1-2026-10-25/baseline-verification.json",
+      "sha256": "2864060ee1b5e302e70d69b4116b1685868a46a65d0d1053000ff407aa6c6fa2",
+      "bytes": 7181
+    },
+    {
+      "path": "docs/evidence/task1-2026-10-25/completion.md",
+      "sha256": "75a9a65642293d8fa567b96a524a2f728edb518de5ee286821d6980ba15f8e19",
+      "bytes": 4192
+    },
+    {
+      "path": "docs/evidence/task1-2026-10-25/retrieval.json",
+      "sha256": "5164d24e13b15adffbed8a14386c17374300bd6559332b9b93205d894682a122",
+      "bytes": 12056
+    },
+    {
+      "path": "docs/evidence/task1-2026-10-25/verification-result.json",
+      "sha256": "e7b72a80555006e1bea47c64889edf8f97dc451ceaf68c0b8f103d45066f2b43",
+      "bytes": 1076
+    },
+    {
+      "path": "docs/evidence/task1-2026-10-25/verify.py",
+      "sha256": "3354de699a8577a9a690ec73974dbb23c8023c6f5a95c0d78e1661a1cbd50cea",
+      "bytes": 6032
+    },
+    {
+      "path": "docs/evidence/task1-2026-10-25/delivery-manifest-v1.json",
+      "sha256": "23fce00c58928181d52dd5359be8d90d91adf10b50fe7fdd953232511406f14f",
+      "bytes": 3742
+    },
+    {
+      "path": "docs/evidence/task1-2026-10-25/verification-result-v1.json",
+      "sha256": "38d77d95ae56d8e44f6c281c1e16dabb250593ab24ab37883b523bfdace37282",
+      "bytes": 811
+    }
+  ]
+}

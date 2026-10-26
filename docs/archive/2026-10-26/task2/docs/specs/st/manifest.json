@@ -1,0 +1,71 @@
+{
+  "documents": [
+    {
+      "manufacturer": "STMicroelectronics",
+      "model": "STM32G0B1CBT6",
+      "source_url": "https://www.st.com/resource/en/datasheet/stm32g0b1cb.pdf",
+      "retrieved_at_utc": "2026-10-23T03:07:16.446427+00:00",
+      "status": "verified",
+      "selection_status": "candidate_not_selected",
+      "final_url": "https://www.st.com/resource/en/datasheet/stm32g0b1cb.pdf",
+      "content_type": "application/pdf",
+      "file": "STM32G0B1xB-xC-xE.pdf",
+      "sha256": "8433e47bc5da5cac459a1d3d5a6add183655061f5655d3c653248de65ca535c9",
+      "page_count": 165,
+      "title": "STM32G0B1xB/xC/xE - Arm Cortex-M0+ 32-bit MCU",
+      "validation": {
+        "pdf_signature": true,
+        "all_pages_parsed": true,
+        "model_in_text": true,
+        "extracted_characters": 266230
+      },
+      "document_id": "DS13560",
+      "revision": "6",
+      "document_date": "2026-02"
+    },
+    {
+      "manufacturer": "st",
+      "model": "STM32G0B1CBT6",
+      "file": "RM0444.pdf",
+      "source_url": "https://www.st.com/resource/en/reference_manual/DM00371828-.pdf",
+      "retrieved_at_utc": "2026-10-25T13:17:08.357412+00:00",
+      "selection_status": "candidate_not_selected",
+      "final_url": "https://www.st.com/resource/en/reference_manual/DM00371828-.pdf",
+      "http_status": 200,
+      "status": "verified",
+      "sha256": "0b9146260790b48735631e7735c60c42b900415c7b519ee7623c10e3d96faec3",
+      "page_count": 1384,
+      "bytes": 17180597,
+      "validation": {
+        "all_pages_parsed": true
+      },
+      "document_id": "RM0444",
+      "revision": "6",
+      "document_date": "2024-12",
+      "document_type": "reference_manual",
+      "coverage_note": "STM32G0x1超集；需按G0B1CBT6资源筛选和设计协议核对"
+    },
+    {
+      "manufacturer": "st",
+      "model": "STM32G0B1CBT6",
+      "file": "ES0548.pdf",
+      "source_url": "https://www.st.com/resource/en/errata_sheet/es0548-stm32g0b1xbxcxe-device-errata-stmicroelectronics.pdf",
+      "retrieved_at_utc": "2026-10-25T13:17:08.357470+00:00",
+      "selection_status": "candidate_not_selected",
+      "final_url": "https://www.st.com/resource/en/errata_sheet/es0548-stm32g0b1xbxcxe-device-errata-stmicroelectronics.pdf",
+      "http_status": 200,
+      "status": "verified",
+      "sha256": "4ffa38122d3a686c859e01d087528aea0fa1457e5fae3bf2acae974c901ed2e5",
+      "page_count": 31,
+      "bytes": 1398648,
+      "validation": {
+        "all_pages_parsed": true
+      },
+      "document_id": "ES0548",
+      "revision": "4",
+      "document_date": "2026-09",
+      "document_type": "errata_sheet",
+      "coverage_note": "覆盖G0B1xB/xC/xE；台架读取实际REV_ID后逐条判定适用性"
+    }
+  ]
+}

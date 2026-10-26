@@ -1,0 +1,53 @@
+{
+  "retrieved_date": "2026-10-22",
+  "documents": [
+    {
+      "filename": "xu316-1024-datasheet.pdf",
+      "url": "https://www.xmos.com/documentation/XM-015129-PC/pdf/XU316-1024.pdf",
+      "document_type": "chip_datasheet",
+      "version": "2.0.0",
+      "selection_status": "candidate/not-selected",
+      "status": "downloaded",
+      "finalURL": "https://www.xmos.com/documentation/XM-015129-PC/pdf/XU316-1024.pdf",
+      "bytes": 2037526,
+      "sha256": "38f8bbfe9133409adef65a3a3d6c9c2120843568ea9ac9d4665ce23106bb36c8",
+      "pages": 117,
+      "title": "XU316 Product Series Datasheet",
+      "validation": {
+        "parser": "pypdf strict=True",
+        "pages_parsed": 117,
+        "all_pages_text_extracted": true,
+        "pages_with_text": 117,
+        "extracted_characters": 192641,
+        "sha256_rechecked": true
+      }
+    },
+    {
+      "filename": null,
+      "url": "https://www.xmos.com/file/sw_usb_audio-sw_usb_audio-design-guide",
+      "finalURL": null,
+      "sha256": null,
+      "pages": null,
+      "title": "USB Audio User Guide / USB Audio reference designs",
+      "version": "9.2.0 per official documentation catalogue",
+      "document_type": "reference_design_software_user_guide",
+      "selection_status": "candidate/not-selected",
+      "status": "blocked",
+      "error": "Official catalogue and guide HTML returned HTTP406. Tested unversioned PDF path returned HTTP200 with empty body; rejected. No unofficial substitute downloaded.",
+      "attempted_urls": [
+        "https://www.xmos.com/documentation/XM-008854-UG/html/doc/rst/quick.html",
+        "https://www.xmos.com/documentation/XM-008854-UG/pdf/sw_usb_audio.pdf"
+      ],
+      "limitations": "Guide unavailable locally. Full USB audio firmware/interface implementation remains blocked pending official guide retrieval.",
+      "recheck_2026_10_25": {
+        "file": null,
+        "source_url": "https://www.xmos.com/download/sw_usb_audio%289_2_0%29.pdf/",
+        "retrieved_at_utc": "2026-10-25T13:17:08.357515+00:00",
+        "status": "blocked",
+        "error": "HTTP Error 406: Not Acceptable"
+      }
+    }
+  ],
+  "coverage": "XU316 series official full datasheet downloaded, exact package remains unselected; USB reference software guide blocked.",
+  "validation": "All downloaded files SHA256 rechecked; each PDF parsed with pypdf strict=True and text extracted from every page; no hardware validation."
+}

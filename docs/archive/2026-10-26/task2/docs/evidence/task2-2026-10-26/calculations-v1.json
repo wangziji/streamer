@@ -1,0 +1,63 @@
+{
+  "result": "PASS",
+  "scope": "Arithmetic/document/source/saved-CAD consistency only; no hardware acceptance",
+  "budget_rows": 24,
+  "assumed_rows": 20,
+  "manufacturer_current_rows": 4,
+  "measured_rows": 0,
+  "summary": {
+    "idle": {
+      "load_W": 9.6198,
+      "battery_W": 11.065543674136322,
+      "effective_eta": 0.8693472533558851,
+      "loss_W": 1.4457436741363212
+    },
+    "playback": {
+      "load_W": 22.4849,
+      "battery_W": 25.59438545572075,
+      "effective_eta": 0.8785090792236337,
+      "loss_W": 3.10948545572075
+    },
+    "peak": {
+      "load_W": 36.93854,
+      "battery_W": 42.08420332615097,
+      "effective_eta": 0.8777293397650354,
+      "loss_W": 5.145663326150973
+    }
+  },
+  "energy_required_Wh": 42.65730909286792,
+  "energy_scenarios_Wh": {
+    "csv_baseline": 42.65730909286792,
+    "eta_75": 49.96644444444444,
+    "window_70": 57.104507936507936,
+    "load_30": 76.19047619047619,
+    "load_40": 101.58730158730158
+  },
+  "runtime_estimates_minutes": {
+    "48": 67.51480722166606,
+    "60": 84.39350902708257,
+    "80": 112.52467870277677,
+    "97.92": 137.73020673219875
+  },
+  "peak_current_A": 4.104282222222222,
+  "screening_current_with_margin_A": 5.1303527777777775,
+  "shutdown_battery_J": 2955.0832,
+  "shutdown_battery_Wh": 0.8208564444444445,
+  "source_hashes": {
+    "docs/specs/adi/LT3045.pdf": "9132e595759a58a0920e7c63997872df02ca9ce598ead76c6f7a31051405eba6",
+    "docs/specs/akm/ak4191eq-datasheet.pdf": "da2dd9c9dad92836cb839ebba6f0d5295ed5ce8ecd02a2b5f23ddaf39742fdea",
+    "docs/specs/akm/ak4499exeq-datasheet.pdf": "f69c1c82235a0d7bb3641f493e7f01e517f920bf885cf7ef61904f116a561ac0",
+    "docs/specs/crystek/CCHD-957.pdf": "32994ec4bf7623ef8030813d3e816a97f4daa8dc640b3d9bc7c53692ce3bc0bf",
+    "docs/specs/raspberrypi/power-supplies.adoc": "32fd0edd672d696f7de11d278c807da3f15e511978270a924d8c93a3933656af",
+    "docs/specs/rrc/RRC2054-2-datasheet.pdf": "49a746b170e66a4852c3a25c5eeb143e254276060669f41d4c6e8c3f6bd6a0de",
+    "docs/specs/rrc/RRC2054-technical.pdf": "368da265c706e17644a8a1662d742942a53509e006c86f81e0d9676f73ba0281",
+    "docs/specs/st/STM32G0B1xB-xC-xE.pdf": "8433e47bc5da5cac459a1d3d5a6add183655061f5655d3c653248de65ca535c9",
+    "docs/specs/ti/OPA1612.pdf": "a7b107d9642294fa29e688c6b5f9ea606c52c298c848a125291cc3e661e67c59",
+    "docs/specs/xmos/xu316-1024-datasheet.pdf": "38f8bbfe9133409adef65a3a3d6c9c2120843568ea9ac9d4665ce23106bb36c8"
+  },
+  "cad_and_library_hashes_checked": 11,
+  "hardware_tests": "not_run",
+  "design_accepted": false,
+  "bench_passed": false,
+  "system_passed": false
+}

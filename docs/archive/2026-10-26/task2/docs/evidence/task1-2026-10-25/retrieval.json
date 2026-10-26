@@ -1,0 +1,120 @@
+[
+  {
+    "manufacturer": "ti",
+    "model": "BQ76952",
+    "file": "BQ76952.pdf",
+    "source_url": "https://www.ti.com/lit/ds/symlink/bq76952.pdf",
+    "retrieved_at_utc": "2026-10-25T13:17:08.356849+00:00",
+    "selection_status": "candidate_not_selected",
+    "final_url": "https://www.ti.com/lit/ds/symlink/bq76952.pdf",
+    "http_status": 200,
+    "status": "downloaded_parsed_revision_review_pending",
+    "sha256": "5d89ba9a52308a06a4361157e715061cf4f9e7292990248d4d6b66123156e3a9",
+    "page_count": 87,
+    "bytes": 4107435,
+    "validation": {
+      "all_pages_parsed": true
+    },
+    "first_page": "ess power tools and garden tools\n• Non-military drones\n• Other industrial battery pack (≥10S)\n3 Description\nThe Texas Instruments BQ76952 device is a \nhighly integrated, high-accuracy battery monitor \nand protector for 3-series to 16-series Li-ion, Li-\npolymer, and LiFePO 4 battery packs. The device \nincludes a high-accuracy monitoring system, a \nhighly configurable protection subsystem, and support \nfor autonomous or host controlled cell balancing. \nIntegration includes high-side charge-pump NFET \ndrivers, dual programmable LDOs for external system \nuse, and a host communication peripheral supporting \n400-kHz I 2C, SPI, and HDQ one-wire standards. \nThe BQ76952 device is available in a 48-pin TQFP \npackage.\nDevice Information\nPART NUMBER(1) PACKAGE BODY SIZE (NOM)\nBQ76952xx PFB (48-pin) 7 mm × 7 mm\n(1) See the Device Comparison Table for information on the \ndevice family. For all available devices, see the orderable \naddendum at the end of the data sheet.\nPACK-\nVDD3.3V\nCOMM\nCOMM TO\nSYSTEM\n5V\nVC7\nVC6\nVC5\nVC4\nVC10\nVC9\nVC8\nVC11\nVC12\nVC13\nVC14\nVC15\nBREG\nPCHG\nPDSG\nPACK\nFUSE\nVC16\nCHG\nDSG\nBAT\nCP1\nLD\nNC\nREG18\nTS1\nTS2\nNC\nTS3\nVC3\nVC0\nSRP\nVC2\nVC1\nSRN\nVSS\nSDA\nREG1\nRST_SHUT\nDDSG\nDCHG\nDFETOFF\nSCL\nREG2\nCFETOFF\nHDQ\nREGIN\nALERT\nPACK+\nGND\nMCU\nCOMMUNICATIONS \nTRANSCEIVER\nCHG DSG\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\nSimplified Schematic\nBQ76952\nSLUSE13B – JANUARY 2020 – REVISED NOVEMBER 2021\nAn IMPORTANT NOTICE at the end of this data sheet addresses availability, warranty, changes, use in safety-critical applications, \nintellectual property matters and other important disclaimers. PRODUCTION DATA."
+  },
+  {
+    "manufacturer": "ti",
+    "model": "TPS55288",
+    "file": "TPS55288.pdf",
+    "source_url": "https://www.ti.com/lit/ds/symlink/tps55288.pdf",
+    "retrieved_at_utc": "2026-10-25T13:17:08.357195+00:00",
+    "selection_status": "candidate_not_selected",
+    "final_url": "https://www.ti.com/lit/ds/symlink/tps55288.pdf",
+    "http_status": 200,
+    "status": "downloaded_parsed_revision_review_pending",
+    "sha256": "2b60a3054038493ae5dcdeb58d1f87c27397a886c60a8696376fa6e4d594dfbc",
+    "page_count": 55,
+    "bytes": 3726365,
+    "validation": {
+      "all_pages_parsed": true
+    },
+    "first_page": "input voltage.\nThe TPS55288 employs average current-mode\ncontrol scheme. The switching frequency is\nprogrammable from 200 kHz to 2.2 MHz by an\nexternal resistor and can be synchronized to an\nexternal clock. The TPS55288 also provides optional\nspread spectrum to minimize peak EMI.\nThe TPS55288 offers output over-voltage protection,\naverage inductor current limit, cycle-by-cycle peak\ncurrent limit and output short circuit protection. The\nTPS55288 also ensures safe operating with optional\noutput current limit and hiccup-mode protection in\nsustained overload conditions.\nThe TPS55288 can use a small inductor and small\ncapacitors with high switching frequency. It is\navailable in 4.0-mm × 3.5-mm QFN package.\nDevice Information\nPART NUMBER PACKAGE\n(1)\nBODY SIZE\nTPS55288 VQFN-HR 4.00 mm × 3.50 mm\n(1) For all available packages, see the orderable addendum at\nthe end of the data sheet.\nDR1L\nVIN\nTPS55288\nILIM\nVIN = 2.7V to 36V\nMODE\nC7\nPGND\nCOMP\nR5\nR3\nC2\nVOUT\nVOUT =0.8V to 22V\nC4\nBOOT1\nOFF\nON\nC6\nL1\n4.7µH \nSW2 BOOT2DR1H\nC1\nAGND\nC5\nSCL\nSDA\nVCCC3\n4.7µF\nFSW\nEN/UVLO\nSW1\nCDC\nR4\nDITH/SYNC\nC8\nR2\nISP\nISN\nR1\n10P\u0003\n0.1µF0.1µF\nR6\nFB/INT\nTypical Application Circuit\nwww.ti.com\nTPS55288\nSLVSF01B – NOVEMBER 2018 – REVISED DECEMBER 2020\nCopyright © 2021 Texas Instruments Incorporated Submit Document Feedback 1\nProduct Folder Links: TPS55288\nTPS55288\nSLVSF01B – NOVEMBER 2018 – REVISED DECEMBER 2020\nAn IMPORTANT NOTICE at the end of this data sheet addresses availability, warranty, changes, use in safety-critical applications,\nintellectual property matters and other important disclaimers. PRODUCTION DATA."
+  },
+  {
+    "manufacturer": "rrc",
+    "model": "RRC2054",
+    "file": "RRC2054-technical.pdf",
+    "source_url": "https://www.rrc-ps.com/fileadmin/Dokumente/Gen1/DS_RRC2054_E.pdf",
+    "retrieved_at_utc": "2026-10-25T13:17:08.357281+00:00",
+    "selection_status": "candidate_not_selected",
+    "final_url": "https://www.rrc-ps.com/fileadmin/Dokumente/Gen1/DS_RRC2054_E.pdf",
+    "http_status": 200,
+    "status": "downloaded_parsed_revision_review_pending",
+    "sha256": "368da265c706e17644a8a1662d742942a53509e006c86f81e0d9676f73ba0281",
+    "page_count": 2,
+    "bytes": 346288,
+    "validation": {
+      "all_pages_parsed": true
+    },
+    "first_page": "le energy density \n SMBus & SBDS Rev 1.1 compliant \n Fulfils JEITA standards, advanced temperature-de-\npendent charging profile \n- Fastest charging \n- Maximized cycle life \n Impedance tracking and cell balancing \n- No manual recalibration necessary  \n- Longest lifetime \n Comprehensive charging/discharging and passive \nsafety systems \n Worldwide approvals \n Registered with recycling systems \n \n             \n Applications: \n \nSuitable for use with tablet PC’s, notebooks, industrial and \nmedical devices, etc. \n \n \n \n \n \nSpecification  \n \n \nGeneral   Electrical Parameters  \nDelivery status 30%  Nominal Voltage 15.0V \nbattery capacity    Nominal capacity 3200mAh \nOperating temperature  0°C to 45°C (charge)  Initial impedance <270mΩ @ 1kHz at 20°C \n -20°C to 60°C (discharge)  Max. charge current 2170mA \nStorage temperature -20°C to 60°C max. \n-20°C to 25°C recommended \n Max. charge voltage 17.4V \nCompliance information CE / UL2054 / FCC / PSE / KC \n/ Gost / EAC / CQC / RCM /  \n Cont. discharge \nPeak discharge \n4250mA \n10000mA \n IEC 62133 / UN 38.3 / ROHS / \nReach / BIS  \n Life expectancy @25°C \n1.6A Charge/1.6A Discharge \n>300 cycles with \nmin. 75% of initial \ncapacity \n \n \n \n \n \nBattery Dimensions   Safety Parameters PCM  \nLength 85.1mm±0.25  Overcharge detection voltage 4420mV/cell \nWidth 77.4mm±0.25  Overcharge release voltage 4200mV/cell \nThickness 22.4mm+0.6/-0.4  Overdischarge detection voltage 2750mV/cell \nWeight 240g  Overdischarge release voltage 3000mV/cell \nContacts +, C, D, T, -  Overcharge detection current 2400mA \n   Overdischarge detection current 4350mA \n \n \n \n  \n"
+  },
+  {
+    "manufacturer": "rrc",
+    "model": "RRC2054-2",
+    "file": "RRC2054-2-datasheet.pdf",
+    "source_url": "https://www.rrc-ps.com/fileadmin/Dokumente/Data-Sheets/DS_RRC2054-2.pdf",
+    "retrieved_at_utc": "2026-10-25T13:17:08.357358+00:00",
+    "selection_status": "candidate_not_selected",
+    "final_url": "https://www.rrc-ps.com/fileadmin/Dokumente/Data-Sheets/DS_RRC2054-2.pdf",
+    "http_status": 200,
+    "status": "downloaded_parsed_revision_review_pending",
+    "sha256": "49a746b170e66a4852c3a25c5eeb143e254276060669f41d4c6e8c3f6bd6a0de",
+    "page_count": 7,
+    "bytes": 1003357,
+    "validation": {
+      "all_pages_parsed": true
+    },
+    "first_page": " \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRRC2054-2 \nDatasheet \nStandard Battery Pack Li-Ion \n14.40V / ≥6.80Ah / ≥97.92Wh "
+  },
+  {
+    "manufacturer": "st",
+    "model": "STM32G0B1CBT6",
+    "file": "RM0444.pdf",
+    "source_url": "https://www.st.com/resource/en/reference_manual/DM00371828-.pdf",
+    "retrieved_at_utc": "2026-10-25T13:17:08.357412+00:00",
+    "selection_status": "candidate_not_selected",
+    "final_url": "https://www.st.com/resource/en/reference_manual/DM00371828-.pdf",
+    "http_status": 200,
+    "status": "downloaded_parsed_revision_review_pending",
+    "sha256": "0b9146260790b48735631e7735c60c42b900415c7b519ee7623c10e3d96faec3",
+    "page_count": 1384,
+    "bytes": 17180597,
+    "validation": {
+      "all_pages_parsed": true
+    },
+    "first_page": "December 2024 RM0444 Rev 6 1/1384\n1\nRM0444\nReference manual\nSTM32G0x1 advanced Arm®-based 32-bit MCUs\nIntroduction\nThis reference manual complements the datasheets of the STM32G0x1 microcontrollers, \nproviding information required for application and in particular for software development. It \npertains to the superset of feature sets available on STM32G0x1 microcontrollers. \nThe devices include ST state-of-the-art patented technology.\nFor feature set, ordering information, and mechan\n ical and electrical characteristics of a \nparticular STM32G0x1 device, refer to its corresponding datasheet.\nFor information on the Arm® Cortex®-M0+ core, refer to the Cortex®-M0+ technical \nreference manual.\nRelated documents\n• “Cortex®-M0+ Technical Reference Manual”, available from: http://infocenter.arm.com\n• PM0223 programming manual for Cortex®-M0+ core(a)\n• STM32G0x1 datasheets(a)\n• AN2606 application note on booting STM32 MCUs(a)\n• STM32G0x1 device errata sheets(a)\na. Available on STMicr oelectronics website www.st.com\nwww.st.com"
+  },
+  {
+    "manufacturer": "st",
+    "model": "STM32G0B1CBT6",
+    "file": "ES0548.pdf",
+    "source_url": "https://www.st.com/resource/en/errata_sheet/es0548-stm32g0b1xbxcxe-device-errata-stmicroelectronics.pdf",
+    "retrieved_at_utc": "2026-10-25T13:17:08.357470+00:00",
+    "selection_status": "candidate_not_selected",
+    "final_url": "https://www.st.com/resource/en/errata_sheet/es0548-stm32g0b1xbxcxe-device-errata-stmicroelectronics.pdf",
+    "http_status": 200,
+    "status": "downloaded_parsed_revision_review_pending",
+    "sha256": "4ffa38122d3a686c859e01d087528aea0fa1457e5fae3bf2acae974c901ed2e5",
+    "page_count": 31,
+    "bytes": 1398648,
+    "validation": {
+      "all_pages_parsed": true
+    },
+    "first_page": "Applicability\nThis document applies to the part numbers of STM32G0B1xB/xC/xE devices and the device variants as stated in this page.\nIt gives a summary and a description of the device errata, with respect to the device datasheet and reference manual RM0444.\nDeviation of the real device behavior from the intended device behavior is considered to be a device limitation. Deviation of the \ndescription in the reference manual or the datasheet from the intended device behavior is considered to be a documentation \nerratum. The term “errata” applies both to limitations and documentation errata.\nTable 1. Device summary\nReference Part numbers\nSTM32G0B1xB STM32G0B1CB, STM32G0B1KB, STM32G0B1MB, STM32G0B1RB, STM32G0B1VB\nSTM32G0B1xC STM32G0B1CC, STM32G0B1KC, STM32G0B1MC, STM32G0B1RC, STM32G0B1VC\nSTM32G0B1xE STM32G0B1CE, STM32G0B1KE, STM32G0B1ME, STM32G0B1NE, STM32G0B1RE, STM32G0B1VE\nTable 2. Device variants\nReference\nSilicon revision codes\nDevice marking(1) REV_ID(2)\nSTM32G0B1xB/xC/xE\nA 0x1000\nZ or 3 0x1001\nY or 4 0x1003\n \n1. Refer to the device datasheet for information on how to identify this code on different package types.\n2. REV_ID[15:0] bitfield of DBGMCU_IDCODE register.\n \nSTM32G0B1xB/xC/xE device errata\n STM32G0B1xB/xC/xE \nErrata sheet\nES0548 - Rev 4 - September 2026\nFor further information, contact your local STMicroelectronics sales office.\nwww.st.com"
+  },
+  {
+    "manufacturer": "xmos",
+    "model": "XU316 software",
+    "file": null,
+    "source_url": "https://www.xmos.com/download/sw_usb_audio%289_2_0%29.pdf/",
+    "retrieved_at_utc": "2026-10-25T13:17:08.357515+00:00",
+    "selection_status": "candidate_not_selected",
+    "status": "blocked",
+    "error": "HTTP Error 406: Not Acceptable"
+  }
+]

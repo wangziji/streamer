@@ -1,0 +1,23 @@
+{
+  "version": "T2-2026-10-26-v1",
+  "status": "calculation_package_complete",
+  "hardware_tests": "not_run",
+  "design_accepted": false,
+  "bench_passed": false,
+  "system_passed": false,
+  "files": {
+    "docs/engineering/power-budget.csv": "fce4fb2ec7519c40ad3b9d8b65b5b579edf4276b7f2f64fb50363f14631b8ee1",
+    "docs/engineering/battery-energy.md": "14e048399459457eea2445eae16a31dd9cab0c8ebe9d10394d03ebfb7ba12ce7",
+    "docs/validation/runtime-protocol.md": "066b590103471702b8badea4ffb5d80a305a2be6963cd468dbdf320d816a3dc5",
+    "docs/engineering/traceability.csv": "cd50912cc0ab6962a3d2e05c92251f4675b5c323743948ee2c6c71c70b1805d1",
+    "docs/superpowers/plans/2026-10-25-streamer-implementation.md": "4dcb336899e228b2815fc4399643525bc3c66a4598367427770145b799db83d0",
+    "docs/progress-2026-10-26.md": "0a61b577f7ee62035b1e13832efefb285754e893ddf6b69a5c8b67801c7b6c97",
+    "docs/evidence/task2-2026-10-26/calculations.json": "fe83d475667840fdc4f2f1cb2ae0e0af28ca425ba791552004dde8e00da0b74f",
+    "docs/evidence/task2-2026-10-26/completion.md": "50ca9aa06df68d7380a7a2af0196c1436155c5b59906a0d7e7f772f5576c2bbb",
+    "docs/evidence/task2-2026-10-26/input-baseline.json": "76f6d86c4343f28bae2c76a78bf1506d76faf3356ace57bbf9ce42a3c3dda1b3",
+    "docs/evidence/task2-2026-10-26/progress.md": "44d0ba0bed3221f2111ea67e776ac241c483a1d5d25741d349e88841acb02922",
+    "docs/evidence/task2-2026-10-26/review.md": "3cc80489fe60a8a91d4e77387d660809398d2cfa348a2681edff04507c9b726a",
+    "docs/evidence/task2-2026-10-26/task1-regression.json": "fb99e9e4ee2837cc820cd037edab03f4dd36ed4c9fe5cb6ef0f0ef39ea4427f7",
+    "docs/evidence/task2-2026-10-26/verify.py": "05c1282fc755b58ffbe25dee82945a4969500fd22d5486d023b6d04a52b10bb3"
+  }
+}

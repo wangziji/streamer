@@ -1,0 +1,20 @@
+{
+  "result": "PASS",
+  "cad_and_library_hashes": 11,
+  "netlist_components": 33,
+  "archived_files": 25,
+  "pdf_files": 24,
+  "requirements": 59,
+  "individual_source_targets": 32,
+  "cli_version": "10.0.7",
+  "checks": "hashes, manifest inventory/official URLs, all PDF page extraction, component identity, requirement ownership/dependencies/status, current evidence and Markdown links",
+  "limits": "Saved files only; no CAD mutation, electrical correctness, ERC/DRC or bench/system verdict",
+  "checked_date": "2026-10-26",
+  "baseline_version": "T1-2026-10-25-v2",
+  "command": "<local-home>/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 docs/evidence/task1-2026-10-25/verify.py",
+  "review": "2026-10-26 audit P2 update/recovery protection traceability fixed; no hardware/firmware change",
+  "regression_evidence": {
+    "before_fix": "FAIL: Missing update/recovery output protection",
+    "after_fix": "PASS: full baseline check including update, interruption, failure recovery, Task 6/9 ownership and control state-machine artifact"
+  }
+}

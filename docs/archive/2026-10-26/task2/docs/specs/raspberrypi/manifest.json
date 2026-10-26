@@ -1,0 +1,134 @@
+{
+  "retrieved_date": "2026-10-22",
+  "documents": [
+    {
+      "filename": "raspberry-pi-5-product-brief.pdf",
+      "url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-008348-DS-8-raspberry-pi-5-product-brief.pdf",
+      "document_type": "board_product_brief",
+      "version": "document revision 8",
+      "selection_status": "candidate/not-selected",
+      "status": "downloaded",
+      "finalURL": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-008348-DS-8-raspberry-pi-5-product-brief.pdf",
+      "bytes": 52948347,
+      "sha256": "944fc1d70da50f0b8d5947dd4263078f698c79586f29c07f35fcd4b87077dd3f",
+      "pages": 7,
+      "title": "Raspberry Pi 5",
+      "validation": {
+        "parser": "pypdf strict=True",
+        "pages_parsed": 7,
+        "all_pages_text_extracted": true,
+        "pages_with_text": 7,
+        "extracted_characters": 4334,
+        "sha256_rechecked": true
+      }
+    },
+    {
+      "filename": "raspberry-pi-5-mechanical-drawing.pdf",
+      "url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-008347-DS-1-raspberry-pi-5-mechanical-drawing.pdf",
+      "document_type": "board_mechanical_drawing",
+      "version": "document revision 1",
+      "selection_status": "candidate/not-selected",
+      "status": "downloaded",
+      "finalURL": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-008347-DS-1-raspberry-pi-5-mechanical-drawing.pdf",
+      "bytes": 174949,
+      "sha256": "5dd680d6c1f5e7aa9c7b020695e315d04aac862df82ff01d4e9041cd0668d7f2",
+      "pages": 1,
+      "title": "raspberry-pi-5-mechanical-drawing",
+      "validation": {
+        "parser": "pypdf strict=True",
+        "pages_parsed": 1,
+        "all_pages_text_extracted": true,
+        "pages_with_text": 1,
+        "extracted_characters": 523,
+        "sha256_rechecked": true
+      }
+    },
+    {
+      "filename": "pcie-connector-standard.pdf",
+      "url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-008298-DS-1-pcie-connector-standard.pdf",
+      "document_type": "interface_specification",
+      "version": "document revision 1",
+      "selection_status": "candidate/not-selected",
+      "status": "downloaded",
+      "finalURL": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-008298-DS-1-pcie-connector-standard.pdf",
+      "bytes": 306360,
+      "sha256": "cf9f776e25d125c4284b8182d803344015b72e7cf5c7c89647fd92548da648d1",
+      "pages": 10,
+      "title": "Raspberry Pi Connector for PCIe",
+      "validation": {
+        "parser": "pypdf strict=True",
+        "pages_parsed": 10,
+        "all_pages_text_extracted": true,
+        "pages_with_text": 8,
+        "extracted_characters": 9483,
+        "sha256_rechecked": true
+      }
+    },
+    {
+      "filename": "rp1-peripherals.pdf",
+      "url": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-008370-DS-1-rp1-peripherals.pdf",
+      "document_type": "peripheral_register_reference",
+      "version": "document revision 1",
+      "selection_status": "candidate/not-selected",
+      "status": "downloaded",
+      "finalURL": "https://pip-assets.raspberrypi.com/categories/892-raspberry-pi-5/documents/RP-008370-DS-1-rp1-peripherals.pdf",
+      "bytes": 3513008,
+      "sha256": "87fb7b24e8d9add075b849d095a107827610c0409ea194785af624c1ea986c3d",
+      "pages": 93,
+      "title": "Raspberry Pi RP1 Peripherals",
+      "validation": {
+        "parser": "pypdf strict=True",
+        "pages_parsed": 93,
+        "all_pages_text_extracted": true,
+        "pages_with_text": 91,
+        "extracted_characters": 135840,
+        "sha256_rechecked": true
+      }
+    },
+    {
+      "filename": "raspberry-pi-hardware.html",
+      "url": "https://www.raspberrypi.com/documentation/computers/raspberry-pi.html",
+      "document_type": "board_hardware_power_interface_documentation",
+      "version": "unversioned web snapshot",
+      "selection_status": "candidate/not-selected",
+      "status": "blocked",
+      "error": "HTTP Error 403: Forbidden",
+      "finalURL": null,
+      "sha256": null,
+      "pages": null,
+      "title": "raspberry-pi-hardware.html",
+      "limitations": "Not downloaded; cannot serve as local circuit-design authority."
+    },
+    {
+      "filename": "power-supplies.adoc",
+      "url": "https://raw.githubusercontent.com/raspberrypi/documentation/master/documentation/asciidoc/computers/raspberry-pi/power-supplies.adoc",
+      "finalURL": "https://raw.githubusercontent.com/raspberrypi/documentation/master/documentation/asciidoc/computers/raspberry-pi/power-supplies.adoc",
+      "sha256": "32fd0edd672d696f7de11d278c807da3f15e511978270a924d8c93a3933656af",
+      "bytes": 9383,
+      "pages": null,
+      "title": "Raspberry Pi documentation: Power supply",
+      "version": "master snapshot 2026-10-22; content pinned by SHA256",
+      "document_type": "board_power_interface_documentation_source",
+      "selection_status": "candidate/not-selected",
+      "status": "downloaded",
+      "official_ownership_evidence": "https://www.raspberrypi.com/documentation/computers/raspberry-pi.html#power-supply links Edit on GitHub to raspberrypi/documentation power-supplies.adoc",
+      "limitations": "AsciiDoc source; contains image/link dependencies not bundled; not a chip datasheet."
+    },
+    {
+      "filename": null,
+      "url": "https://pip.raspberrypi.com/categories/892-raspberry-pi-5",
+      "finalURL": null,
+      "sha256": null,
+      "pages": null,
+      "title": "BCM2712 and Raspberry Pi 5 full component-level electrical specification",
+      "version": null,
+      "document_type": "full_chip_electrical_datasheet",
+      "selection_status": "candidate/not-selected",
+      "status": "blocked",
+      "error": "No full BCM2712/component-level electrical datasheet acquired from official public Pi5 catalogue. Available product brief, RP1 register reference and board interface documents are partial and cannot replace it.",
+      "limitations": "Use downloaded documents only for existing-board integration within their stated coverage; no authorization to design BCM2712/RP1 chip-level circuits."
+    }
+  ],
+  "coverage": "Board integration documents only. Not complete chip specifications or complete board schematic. USB/GPIO/power integration still requires section-specific coverage checks.",
+  "validation": "All downloaded files SHA256 rechecked; each PDF parsed with pypdf strict=True and text extracted from every page; no hardware validation."
+}
