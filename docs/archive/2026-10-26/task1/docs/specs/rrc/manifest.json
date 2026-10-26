@@ -1,0 +1,49 @@
+{
+  "manufacturer": "RRC power solutions",
+  "documents": [
+    {
+      "manufacturer": "rrc",
+      "model": "RRC2054",
+      "file": "RRC2054-technical.pdf",
+      "source_url": "https://www.rrc-ps.com/fileadmin/Dokumente/Gen1/DS_RRC2054_E.pdf",
+      "retrieved_at_utc": "2026-10-25T13:17:08.357281+00:00",
+      "selection_status": "candidate_not_selected",
+      "final_url": "https://www.rrc-ps.com/fileadmin/Dokumente/Gen1/DS_RRC2054_E.pdf",
+      "http_status": 200,
+      "status": "verified",
+      "sha256": "368da265c706e17644a8a1662d742942a53509e006c86f81e0d9676f73ba0281",
+      "page_count": 2,
+      "bytes": 346288,
+      "validation": {
+        "all_pages_parsed": true
+      },
+      "document_id": "DS_RRC2054_E",
+      "revision": "E; filename identifier, no dated revision declaration",
+      "document_date": null,
+      "document_type": "battery_pack_technical_data",
+      "coverage_note": "精确包型技术表；供货P/N、版本、完整集成/SMBus及峰值持续时间未关闭；不得与其他RRC2054版本混用"
+    },
+    {
+      "manufacturer": "rrc",
+      "model": "RRC2054-2",
+      "file": "RRC2054-2-datasheet.pdf",
+      "source_url": "https://www.rrc-ps.com/fileadmin/Dokumente/Data-Sheets/DS_RRC2054-2.pdf",
+      "retrieved_at_utc": "2026-10-25T13:17:08.357358+00:00",
+      "selection_status": "candidate_not_selected",
+      "final_url": "https://www.rrc-ps.com/fileadmin/Dokumente/Data-Sheets/DS_RRC2054-2.pdf",
+      "http_status": 200,
+      "status": "verified",
+      "sha256": "49a746b170e66a4852c3a25c5eeb143e254276060669f41d4c6e8c3f6bd6a0de",
+      "page_count": 7,
+      "bytes": 1003357,
+      "validation": {
+        "all_pages_parsed": true
+      },
+      "document_id": "DS_RRC2054-2_J",
+      "revision": "J",
+      "document_date": null,
+      "document_type": "battery_pack_datasheet",
+      "coverage_note": "P/N 1100640；物理PDF页4为Characteristics；完整集成/SMBus、阈值及寿命条件仍缺"
+    }
+  ]
+}

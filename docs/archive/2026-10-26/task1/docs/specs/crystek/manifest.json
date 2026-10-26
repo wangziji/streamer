@@ -1,0 +1,27 @@
+{
+  "manufacturer": "Crystek Corporation",
+  "model": "CCHD-957",
+  "source_url": "https://www.crystek.com/specification/clock/CCHD-957.pdf",
+  "retrieved_at_utc": "2026-10-22T09:00:51.791745+00:00",
+  "status": "verified",
+  "final_url": "https://www.crystek.com/Specification/CCHD-957",
+  "content_type": "application/pdf",
+  "file": "CCHD-957.pdf",
+  "sha256": "32994ec4bf7623ef8030813d3e816a97f4daa8dc640b3d9bc7c53692ce3bc0bf",
+  "page_count": 2,
+  "title": "CCHD-957 FEMTO Clock — Ultra-Low Phase Noise Oscillator with Standby Mode",
+  "revision_markers": [
+    "Rev: N"
+  ],
+  "validation": {
+    "pdf_signature": true,
+    "all_pages_parsed": true,
+    "model_in_extracted_text": true,
+    "extracted_character_count": 3473,
+    "parser_warnings": [
+      "pypdf reported superfluous object-header whitespace; strict parse and text extraction succeeded on both pages."
+    ]
+  },
+  "revision": "N",
+  "document_date": "2026-08-25"
+}

@@ -1,0 +1,308 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-22T09:00:46.574752+00:00",
+  "scope": "Official AKM candidate documentation only; downloads do not select or approve parts. Product briefs and quality specifications are supplemental and do not replace complete electrical datasheets.",
+  "source_product_pages": [
+    "https://www.akm.com/us/en/products/audio/audio-dac/ak4499exeq/",
+    "https://www.akm.com/us/en/products/audio/audio-dac/ak4191eq/"
+  ],
+  "documents": [
+    {
+      "id": "ak4499exeq-datasheet",
+      "title": "AK4499EXEQ datasheet",
+      "listed_document_version": "220600017-E-00",
+      "listed_pages": 54,
+      "status": "downloaded",
+      "local_file": "ak4499exeq-datasheet.pdf",
+      "sha256": "f69c1c82235a0d7bb3641f493e7f01e517f920bf885cf7ef61904f116a561ac0",
+      "pages": 54,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-datasheet-myakm.pdf",
+          "http_status": 200,
+          "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-datasheet-myakm.pdf",
+          "content_type": "application/pdf",
+          "result": "validated_pdf"
+        }
+      ],
+      "download_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-datasheet-myakm.pdf",
+      "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-datasheet-myakm.pdf",
+      "bytes": 2129910,
+      "pdf_title": "AK4499EX English Datasheet",
+      "pdf_author": "Asahi Kasei Microdevices Corporation",
+      "pdf_version": "1.7",
+      "validation": {
+        "pdf_magic": true,
+        "pdfinfo": true,
+        "pypdf_page_count": 54,
+        "text_extracted": true
+      },
+      "document_version_in_pdf": [
+        "220600017-E-00"
+      ],
+      "document_date_in_pdf": [
+        "2022/07"
+      ],
+      "sha256_verified": true
+    },
+    {
+      "id": "ak4191eq-datasheet",
+      "title": "AK4191EQ datasheet",
+      "listed_document_version": "200900053-E-01",
+      "listed_pages": 130,
+      "status": "downloaded",
+      "local_file": "ak4191eq-datasheet.pdf",
+      "sha256": "da2dd9c9dad92836cb839ebba6f0d5295ed5ce8ecd02a2b5f23ddaf39742fdea",
+      "pages": 130,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-datasheet-myakm.pdf",
+          "http_status": 200,
+          "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-datasheet-myakm.pdf",
+          "content_type": "application/pdf",
+          "result": "validated_pdf"
+        }
+      ],
+      "download_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-datasheet-myakm.pdf",
+      "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-datasheet-myakm.pdf",
+      "bytes": 6924417,
+      "pdf_title": "AK4191 English Datasheet",
+      "pdf_author": "Asahi Kasei Microdevies Corporation",
+      "pdf_version": "1.7",
+      "validation": {
+        "pdf_magic": true,
+        "pdfinfo": true,
+        "pypdf_page_count": 130,
+        "text_extracted": true
+      },
+      "document_version_in_pdf": [
+        "200900053-E-01"
+      ],
+      "document_date_in_pdf": [
+        "2022/01"
+      ],
+      "sha256_verified": true,
+      "note": "Complete datasheet is 200900053-E-01 (2022/01); public product brief is Rev.02 (2022/05). Confirm with AKM whether a newer complete datasheet exists before design freeze."
+    },
+    {
+      "id": "ak4499eq-datasheet",
+      "title": "AK4499EQ datasheet",
+      "listed_document_version": null,
+      "listed_pages": null,
+      "status": "blocked",
+      "local_file": null,
+      "sha256": null,
+      "pages": null,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499eq/ak4499eq-en-datasheet.pdf",
+          "result": "blocked",
+          "reason": "HTTP Error 404: Not Found"
+        }
+      ],
+      "blocker": "Official download unavailable at attempted public URL(s). Complete manuals are listed behind AKM request form; no form submitted, login bypass attempted, or third-party mirror used."
+    },
+    {
+      "id": "akd4499exeq-evb-manual",
+      "title": "AKD4499EXEQ evaluation board manual",
+      "listed_document_version": "KM136300",
+      "listed_pages": 53,
+      "status": "blocked",
+      "local_file": null,
+      "sha256": null,
+      "pages": null,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/akd4499exeq-en-evaluationboard-manual-myakm.pdf",
+          "result": "blocked",
+          "reason": "HTTP Error 404: Not Found"
+        }
+      ],
+      "blocker": "Official download unavailable at attempted public URL(s). Complete manuals are listed behind AKM request form; no form submitted, login bypass attempted, or third-party mirror used."
+    },
+    {
+      "id": "ak4191eq-ak4499exeq-application-note",
+      "title": "AK4191EQ / AK4499EXEQ application note",
+      "listed_document_version": "C018-01",
+      "listed_pages": 24,
+      "status": "downloaded",
+      "local_file": "ak4191eq-ak4499exeq-application-note.pdf",
+      "sha256": "5abc0f6fdc73cad3c9e1efd125ade66ee0180cf4f20e6adbc50f5c11131fb289",
+      "pages": 24,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-designtransition-myakm.pdf",
+          "http_status": 200,
+          "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-designtransition-myakm.pdf",
+          "content_type": "application/pdf",
+          "result": "validated_pdf"
+        }
+      ],
+      "download_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-designtransition-myakm.pdf",
+      "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-designtransition-myakm.pdf",
+      "bytes": 1064391,
+      "pdf_title": "AK4191 and AK4499EX Application Note",
+      "pdf_author": "Asahi Kasei Microdevices Corporation",
+      "pdf_version": "1.7",
+      "validation": {
+        "pdf_magic": true,
+        "pdfinfo": true,
+        "pypdf_page_count": 24,
+        "text_extracted": true
+      },
+      "document_version_in_pdf": [
+        "C018-01"
+      ],
+      "document_date_in_pdf": [
+        "2022/06"
+      ],
+      "sha256_verified": true
+    },
+    {
+      "id": "ak4499exeq-productbrief",
+      "title": "AK4499EXEQ product brief",
+      "listed_document_version": null,
+      "listed_pages": null,
+      "status": "downloaded",
+      "local_file": "ak4499exeq-productbrief.pdf",
+      "sha256": "dc0b381ed632be41bdbd0e979c340102f8e69c6d6f26ea1beea950d7e776d3ee",
+      "pages": 5,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-productbrief.pdf",
+          "http_status": 200,
+          "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-productbrief.pdf",
+          "content_type": "application/pdf",
+          "result": "validated_pdf"
+        }
+      ],
+      "download_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-productbrief.pdf",
+      "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4499exeq/ak4499exeq-en-productbrief.pdf",
+      "bytes": 197454,
+      "pdf_title": "AK4499EX English Product Brief",
+      "pdf_author": "Asahi Kasei Microdevices Corporation",
+      "pdf_version": "1.7",
+      "validation": {
+        "pdf_magic": true,
+        "pdfinfo": true,
+        "pypdf_page_count": 5,
+        "text_extracted": true
+      },
+      "document_version_in_pdf": [
+        "E-01"
+      ],
+      "document_date_in_pdf": [],
+      "sha256_verified": true
+    },
+    {
+      "id": "ak4191eq-productbrief",
+      "title": "AK4191EQ product brief",
+      "listed_document_version": null,
+      "listed_pages": null,
+      "status": "downloaded",
+      "local_file": "ak4191eq-productbrief.pdf",
+      "sha256": "b2d25efbf38dd83bfab9dcbbebae78f9579c1c7837a7b00cb84c0c383a661c64",
+      "pages": 8,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-productbrief.pdf",
+          "http_status": 200,
+          "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-productbrief.pdf",
+          "content_type": "application/pdf",
+          "result": "validated_pdf"
+        }
+      ],
+      "download_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-productbrief.pdf",
+      "final_url": "https://www.akm.com/content/dam/documents/products/audio/audio-dac/ak4191eq/ak4191eq-en-productbrief.pdf",
+      "bytes": 401320,
+      "pdf_title": "AK4191 Product Brief",
+      "pdf_author": "Asahi Kasei Microdevies Corporation",
+      "pdf_version": "1.7",
+      "validation": {
+        "pdf_magic": true,
+        "pdfinfo": true,
+        "pypdf_page_count": 8,
+        "text_extracted": true
+      },
+      "document_version_in_pdf": [
+        "Rev. 02"
+      ],
+      "document_date_in_pdf": [
+        "2022/05"
+      ],
+      "sha256_verified": true
+    },
+    {
+      "id": "ak4499exeq-qualityspecifications",
+      "title": "AK4499EXEQ quality specifications",
+      "listed_document_version": null,
+      "listed_pages": null,
+      "status": "downloaded",
+      "local_file": "ak4499exeq-qualityspecifications.pdf",
+      "sha256": "53361efa45ad3dd80da20141f4db0f324c145041896487ad9544f97ae12394e6",
+      "pages": 16,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4499exeq-en-qualityspecifications.pdf",
+          "http_status": 200,
+          "final_url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4499exeq-en-qualityspecifications.pdf",
+          "content_type": "application/pdf",
+          "result": "validated_pdf"
+        }
+      ],
+      "download_url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4499exeq-en-qualityspecifications.pdf",
+      "final_url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4499exeq-en-qualityspecifications.pdf",
+      "bytes": 771845,
+      "pdf_title": "Quality Specifications",
+      "pdf_author": "AKM QA",
+      "pdf_version": "1.7",
+      "validation": {
+        "pdf_magic": true,
+        "pdfinfo": true,
+        "pypdf_page_count": 16,
+        "text_extracted": true
+      },
+      "document_version_in_pdf": [
+        "AK4499EXEQP-V_QS_e_2"
+      ],
+      "document_date_in_pdf": [],
+      "sha256_verified": true
+    },
+    {
+      "id": "ak4191eq-qualityspecifications",
+      "title": "AK4191EQ quality specifications",
+      "listed_document_version": null,
+      "listed_pages": null,
+      "status": "downloaded",
+      "local_file": "ak4191eq-qualityspecifications.pdf",
+      "sha256": "099e8f803959441e1819df96c87898fbdf714974e0a49bf603e32ba9131e24fb",
+      "pages": 16,
+      "attempts": [
+        {
+          "url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4191eq-en-qualityspecifications.pdf",
+          "http_status": 200,
+          "final_url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4191eq-en-qualityspecifications.pdf",
+          "content_type": "application/pdf",
+          "result": "validated_pdf"
+        }
+      ],
+      "download_url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4191eq-en-qualityspecifications.pdf",
+      "final_url": "https://www.akm.com/content/dam/documents/quality/specifications/ak4xxx/ak4191eq-en-qualityspecifications.pdf",
+      "bytes": 1657473,
+      "pdf_title": "AK4191EQ Quality Specifications",
+      "pdf_author": "AKM QA",
+      "pdf_version": "1.7",
+      "validation": {
+        "pdf_magic": true,
+        "pdfinfo": true,
+        "pypdf_page_count": 16,
+        "text_extracted": true
+      },
+      "document_version_in_pdf": [
+        "AK4191EQP-V_QS_e_2"
+      ],
+      "document_date_in_pdf": [],
+      "sha256_verified": true
+    }
+  ]
+}

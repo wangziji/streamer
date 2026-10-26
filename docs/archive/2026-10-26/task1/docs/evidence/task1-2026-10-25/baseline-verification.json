@@ -1,0 +1,176 @@
+{
+  "checked_date": "2026-10-25",
+  "source_state": "saved_files_only; live editor state not inspected",
+  "schematic_matches_prior_provenance": true,
+  "netlist_matches_prior_provenance": true,
+  "component_count": 33,
+  "cad_hashes": {
+    "CCHD-957.kicad_mod": "c09c0528eb0fb616191080dffa0449bcdd8b1fbb37cd47c01334aa28b4b3f850",
+    "AK4499.kicad_sch": "a136af928d07700d664a06993703a782a3b63c6857a294e8fb753af98a0ad5db",
+    "AK4191EQ.lib": "82e840551ca42760690511c65ec430873ec238008692dc4ee481ea8b385492cf",
+    "AK4499.kicad_pro": "4a5d04905480374a801903741d849950f1a4478d9d3dad1aefd78a66c3861d79",
+    "AK4499EX.kicad_sym": "3c41f061cdc116b6b9003f684975f47c7b49fd3417351d2d165b7795d957ffa7",
+    "LT3045-1.lib": "ebd40cf12d1f3727ad9be86aca798d6eee7c65c874556cf169d28b23d4ffb4ce",
+    "AK4499EX.lib": "c6991d8a3b84d4729723435bed134568ffdbce4211c31f9791aa66d68cdd028a",
+    "AK4191EQ.dcm": "40cb7a577f63fe17fb6d14c07569e94c7bb2658b23c4a860e32ff45211e9f809",
+    "AK4499.kicad_prl": "10fc7c6a57fc6acca306113ba36f3776e80ec1ad804c35f9a6080ac989274a10",
+    "CCHD-595.lib": "f8eac1d63c3586d411a555981aa526cb16a085d0a6e3b59c5c3fb36853c31804",
+    "AK4499.kicad_pcb": "caa7ec9394d475416e3987d82ccd1e6c80c7539d2de5359c23551d475b88325f"
+  },
+  "original_provenance_sha256": "ff67ec6b3d468e002b8d87f48e8bbc9af844b2c7837ae91684811d8aa25f8c97",
+  "components_sha256": "45444658f98435fc15ada5a414358d9dc089e5304f0541e4fa4dcbe7a37b1e0f",
+  "spec_files": [
+    {
+      "file": "docs/specs/adi/LT3045.pdf",
+      "sha256": "9132e595759a58a0920e7c63997872df02ca9ce598ead76c6f7a31051405eba6",
+      "manifest": "docs/specs/adi/manifest.json",
+      "pages": 32
+    },
+    {
+      "file": "docs/specs/akm/ak4499exeq-datasheet.pdf",
+      "sha256": "f69c1c82235a0d7bb3641f493e7f01e517f920bf885cf7ef61904f116a561ac0",
+      "manifest": "docs/specs/akm/manifest.json",
+      "pages": 54
+    },
+    {
+      "file": "docs/specs/akm/ak4191eq-datasheet.pdf",
+      "sha256": "da2dd9c9dad92836cb839ebba6f0d5295ed5ce8ecd02a2b5f23ddaf39742fdea",
+      "manifest": "docs/specs/akm/manifest.json",
+      "pages": 130
+    },
+    {
+      "file": "docs/specs/akm/ak4191eq-ak4499exeq-application-note.pdf",
+      "sha256": "5abc0f6fdc73cad3c9e1efd125ade66ee0180cf4f20e6adbc50f5c11131fb289",
+      "manifest": "docs/specs/akm/manifest.json",
+      "pages": 24
+    },
+    {
+      "file": "docs/specs/akm/ak4499exeq-productbrief.pdf",
+      "sha256": "dc0b381ed632be41bdbd0e979c340102f8e69c6d6f26ea1beea950d7e776d3ee",
+      "manifest": "docs/specs/akm/manifest.json",
+      "pages": 5
+    },
+    {
+      "file": "docs/specs/akm/ak4191eq-productbrief.pdf",
+      "sha256": "b2d25efbf38dd83bfab9dcbbebae78f9579c1c7837a7b00cb84c0c383a661c64",
+      "manifest": "docs/specs/akm/manifest.json",
+      "pages": 8
+    },
+    {
+      "file": "docs/specs/akm/ak4499exeq-qualityspecifications.pdf",
+      "sha256": "53361efa45ad3dd80da20141f4db0f324c145041896487ad9544f97ae12394e6",
+      "manifest": "docs/specs/akm/manifest.json",
+      "pages": 16
+    },
+    {
+      "file": "docs/specs/akm/ak4191eq-qualityspecifications.pdf",
+      "sha256": "099e8f803959441e1819df96c87898fbdf714974e0a49bf603e32ba9131e24fb",
+      "manifest": "docs/specs/akm/manifest.json",
+      "pages": 16
+    },
+    {
+      "file": "docs/specs/crystek/CCHD-957.pdf",
+      "sha256": "32994ec4bf7623ef8030813d3e816a97f4daa8dc640b3d9bc7c53692ce3bc0bf",
+      "manifest": "docs/specs/crystek/manifest.json",
+      "pages": 2
+    },
+    {
+      "file": "docs/specs/raspberrypi/raspberry-pi-5-product-brief.pdf",
+      "sha256": "944fc1d70da50f0b8d5947dd4263078f698c79586f29c07f35fcd4b87077dd3f",
+      "manifest": "docs/specs/raspberrypi/manifest.json",
+      "pages": 7
+    },
+    {
+      "file": "docs/specs/raspberrypi/raspberry-pi-5-mechanical-drawing.pdf",
+      "sha256": "5dd680d6c1f5e7aa9c7b020695e315d04aac862df82ff01d4e9041cd0668d7f2",
+      "manifest": "docs/specs/raspberrypi/manifest.json",
+      "pages": 1
+    },
+    {
+      "file": "docs/specs/raspberrypi/pcie-connector-standard.pdf",
+      "sha256": "cf9f776e25d125c4284b8182d803344015b72e7cf5c7c89647fd92548da648d1",
+      "manifest": "docs/specs/raspberrypi/manifest.json",
+      "pages": 10
+    },
+    {
+      "file": "docs/specs/raspberrypi/rp1-peripherals.pdf",
+      "sha256": "87fb7b24e8d9add075b849d095a107827610c0409ea194785af624c1ea986c3d",
+      "manifest": "docs/specs/raspberrypi/manifest.json",
+      "pages": 93
+    },
+    {
+      "file": "docs/specs/raspberrypi/power-supplies.adoc",
+      "sha256": "32fd0edd672d696f7de11d278c807da3f15e511978270a924d8c93a3933656af",
+      "manifest": "docs/specs/raspberrypi/manifest.json"
+    },
+    {
+      "file": "docs/specs/rrc/RRC2054-technical.pdf",
+      "sha256": "368da265c706e17644a8a1662d742942a53509e006c86f81e0d9676f73ba0281",
+      "manifest": "docs/specs/rrc/manifest.json",
+      "pages": 2
+    },
+    {
+      "file": "docs/specs/rrc/RRC2054-2-datasheet.pdf",
+      "sha256": "49a746b170e66a4852c3a25c5eeb143e254276060669f41d4c6e8c3f6bd6a0de",
+      "manifest": "docs/specs/rrc/manifest.json",
+      "pages": 7
+    },
+    {
+      "file": "docs/specs/st/STM32G0B1xB-xC-xE.pdf",
+      "sha256": "8433e47bc5da5cac459a1d3d5a6add183655061f5655d3c653248de65ca535c9",
+      "manifest": "docs/specs/st/manifest.json",
+      "pages": 165
+    },
+    {
+      "file": "docs/specs/st/RM0444.pdf",
+      "sha256": "0b9146260790b48735631e7735c60c42b900415c7b519ee7623c10e3d96faec3",
+      "manifest": "docs/specs/st/manifest.json",
+      "pages": 1384
+    },
+    {
+      "file": "docs/specs/st/ES0548.pdf",
+      "sha256": "4ffa38122d3a686c859e01d087528aea0fa1457e5fae3bf2acae974c901ed2e5",
+      "manifest": "docs/specs/st/manifest.json",
+      "pages": 31
+    },
+    {
+      "file": "docs/specs/ti/OPA1612.pdf",
+      "sha256": "a7b107d9642294fa29e688c6b5f9ea606c52c298c848a125291cc3e661e67c59",
+      "manifest": "docs/specs/ti/manifest.json",
+      "pages": 34
+    },
+    {
+      "file": "docs/specs/ti/TS3USB221A.pdf",
+      "sha256": "cccebf8c10df605133d24bd3ab3abeb97a19dbf539d3465b53562fc19f7a242e",
+      "manifest": "docs/specs/ti/manifest.json",
+      "pages": 27
+    },
+    {
+      "file": "docs/specs/ti/BQ25798.pdf",
+      "sha256": "163e45683f62f208545920e1470054b352b4a4b0cdc201e1f19fcb1007f1e222",
+      "manifest": "docs/specs/ti/manifest.json",
+      "pages": 151
+    },
+    {
+      "file": "docs/specs/ti/BQ76952.pdf",
+      "sha256": "5d89ba9a52308a06a4361157e715061cf4f9e7292990248d4d6b66123156e3a9",
+      "manifest": "docs/specs/ti/manifest.json",
+      "pages": 87
+    },
+    {
+      "file": "docs/specs/ti/TPS55288.pdf",
+      "sha256": "2b60a3054038493ae5dcdeb58d1f87c27397a886c60a8696376fa6e4d594dfbc",
+      "manifest": "docs/specs/ti/manifest.json",
+      "pages": 55
+    },
+    {
+      "file": "docs/specs/xmos/xu316-1024-datasheet.pdf",
+      "sha256": "38f8bbfe9133409adef65a3a3d6c9c2120843568ea9ac9d4665ce23106bb36c8",
+      "manifest": "docs/specs/xmos/manifest.json",
+      "pages": 117
+    }
+  ],
+  "cli_version": "10.0.7",
+  "git_metadata_in_directory": false,
+  "coverage": "Provenance, hashes, PDF parsing and component count only; no electrical, pin/pad, ERC, DRC or hardware verdict"
+}

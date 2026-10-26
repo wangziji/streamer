@@ -1,0 +1,115 @@
+{
+  "documents": [
+    {
+      "manufacturer": "Texas Instruments",
+      "model": "OPA1612",
+      "source_url": "https://www.ti.com/lit/ds/symlink/opa1612.pdf",
+      "retrieved_at_utc": "2026-10-23T03:07:16.445840+00:00",
+      "status": "verified",
+      "selection_status": "candidate_not_selected",
+      "final_url": "https://www.ti.com/lit/ds/symlink/opa1612.pdf",
+      "content_type": "application/pdf",
+      "file": "OPA1612.pdf",
+      "sha256": "a7b107d9642294fa29e688c6b5f9ea606c52c298c848a125291cc3e661e67c59",
+      "page_count": 34,
+      "title": "OPA161x SoundPlus High-Performance, Bipolar-Input Audio Operational Amplifiers",
+      "validation": {
+        "pdf_signature": true,
+        "all_pages_parsed": true,
+        "model_in_text": true,
+        "extracted_characters": 59085
+      },
+      "document_id": "SBOS450C",
+      "revision": "C",
+      "document_date": "2014-08"
+    },
+    {
+      "manufacturer": "Texas Instruments",
+      "model": "TS3USB221A",
+      "source_url": "https://www.ti.com/lit/ds/symlink/ts3usb221a.pdf",
+      "retrieved_at_utc": "2026-10-23T03:07:16.446362+00:00",
+      "status": "verified",
+      "selection_status": "candidate_not_selected",
+      "final_url": "https://www.ti.com/lit/ds/symlink/ts3usb221a.pdf",
+      "content_type": "application/pdf",
+      "file": "TS3USB221A.pdf",
+      "sha256": "cccebf8c10df605133d24bd3ab3abeb97a19dbf539d3465b53562fc19f7a242e",
+      "page_count": 27,
+      "title": "TS3USB221A ESD Protected, High-Speed USB 2.0 (480Mbps) 1:2 Multiplexer and Demultiplexer Switch With Single Enable",
+      "validation": {
+        "pdf_signature": true,
+        "all_pages_parsed": true,
+        "model_in_text": true,
+        "extracted_characters": 39469
+      },
+      "document_id": "SCDS277C",
+      "revision": "C",
+      "document_date": "2024-10"
+    },
+    {
+      "manufacturer": "Texas Instruments",
+      "model": "BQ25798",
+      "source_url": "https://www.ti.com/lit/ds/symlink/bq25798.pdf",
+      "final_url": "https://www.ti.com/lit/ds/symlink/bq25798.pdf",
+      "retrieved_at_utc": "2026-10-24T14:10:11.288956+00:00",
+      "status": "verified",
+      "selection_status": "architecture_reference_not_selected",
+      "file": "BQ25798.pdf",
+      "sha256": "163e45683f62f208545920e1470054b352b4a4b0cdc201e1f19fcb1007f1e222",
+      "page_count": 151,
+      "title": "BQ25798 I2 C Controlled, 1 to 4-Cell, 5A Buck-Boost Battery Charger with Dual-Input Selector , MPPT for Solar Panels and Fast Backup Mode datasheet (Rev. C)",
+      "document_type": "complete_datasheet",
+      "revision": "C",
+      "validation": {
+        "pdf_signature": true,
+        "all_pages_parsed": true
+      },
+      "document_id": "SLUSDV2C",
+      "document_date": "2026-06"
+    },
+    {
+      "manufacturer": "ti",
+      "model": "BQ76952",
+      "file": "BQ76952.pdf",
+      "source_url": "https://www.ti.com/lit/ds/symlink/bq76952.pdf",
+      "retrieved_at_utc": "2026-10-25T13:17:08.356849+00:00",
+      "selection_status": "candidate_not_selected",
+      "final_url": "https://www.ti.com/lit/ds/symlink/bq76952.pdf",
+      "http_status": 200,
+      "status": "verified",
+      "sha256": "5d89ba9a52308a06a4361157e715061cf4f9e7292990248d4d6b66123156e3a9",
+      "page_count": 87,
+      "bytes": 4107435,
+      "validation": {
+        "all_pages_parsed": true
+      },
+      "document_id": "SLUSE13B",
+      "revision": "B",
+      "document_date": "2021-11",
+      "document_type": "complete_datasheet",
+      "coverage_note": "保护监测候选；不授权自制电池包；TRM及配置/外部FET资料未归档"
+    },
+    {
+      "manufacturer": "ti",
+      "model": "TPS55288",
+      "file": "TPS55288.pdf",
+      "source_url": "https://www.ti.com/lit/ds/symlink/tps55288.pdf",
+      "retrieved_at_utc": "2026-10-25T13:17:08.357195+00:00",
+      "selection_status": "candidate_not_selected",
+      "final_url": "https://www.ti.com/lit/ds/symlink/tps55288.pdf",
+      "http_status": 200,
+      "status": "verified",
+      "sha256": "2b60a3054038493ae5dcdeb58d1f87c27397a886c60a8696376fa6e4d594dfbc",
+      "page_count": 55,
+      "bytes": 3726365,
+      "validation": {
+        "all_pages_parsed": true
+      },
+      "document_id": "SLVSF01B",
+      "revision": "B",
+      "document_date": "2020-12",
+      "document_type": "complete_datasheet",
+      "coverage_note": "正向DC/DC候选；额定开关电流不是系统保证输出电流；负轨仍缺"
+    }
+  ]
+}

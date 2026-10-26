@@ -1,0 +1,292 @@
+{
+  "snapshot_date": "2026-10-26",
+  "baseline_version": "T1-2026-10-25-v2",
+  "repository": "wangziji/streamer",
+  "scope": "Task 1 baseline and reviewed P2 update/recovery output-protection traceability fix",
+  "manufacturer_originals": "retained locally; omitted from Git; official source links only; obtain exact local documents and verify hashes before circuit design",
+  "excluded": [
+    "manufacturer PDF/AsciiDoc originals",
+    "KiCad source and libraries",
+    "netlist XML",
+    "extracted datasheet text",
+    "workstation caches and backups"
+  ],
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "source_sha256": "57fddd8aca1bd97f797110bb8d23c1a356a3e0a047379bf2d3b3465fd2f571d1",
+      "archive_sha256": "180b8db6467de8214111a3b10764cb6267ac4868b04c2aab29b1b901ae6e32be",
+      "transformations": [
+        "workstation_path_to_portable_marker"
+      ]
+    },
+    {
+      "path": "CONTEXT.md",
+      "source_sha256": "d4aa8179cb796a026725db37202c8b62206b5029233d96052a7cbdeee514e6cf",
+      "archive_sha256": "d4aa8179cb796a026725db37202c8b62206b5029233d96052a7cbdeee514e6cf",
+      "transformations": []
+    },
+    {
+      "path": "docs/adr/0001-first-prototype-scope.md",
+      "source_sha256": "78037735313706ca5c92e93b55f91b0894a69be88bac15cbca3a9a49ed79c7e1",
+      "archive_sha256": "78037735313706ca5c92e93b55f91b0894a69be88bac15cbca3a9a49ed79c7e1",
+      "transformations": []
+    },
+    {
+      "path": "docs/adr/0002-source-support-boundary.md",
+      "source_sha256": "06a84975ace42da92af69e263bb197f5a166971a2c3bfee4d2ccf5cab9c79db8",
+      "archive_sha256": "06a84975ace42da92af69e263bb197f5a166971a2c3bfee4d2ccf5cab9c79db8",
+      "transformations": []
+    },
+    {
+      "path": "docs/adr/0003-usb-first-audio-validation.md",
+      "source_sha256": "7795e097a9fb7a8e76d69c133aaef6ad4be0329b14d89f0da62ccef08891727a",
+      "archive_sha256": "7795e097a9fb7a8e76d69c133aaef6ad4be0329b14d89f0da62ccef08891727a",
+      "transformations": []
+    },
+    {
+      "path": "docs/akm-audio-feasibility.md",
+      "source_sha256": "93425cd715b959f7325909de708d297baecaa950b3c8ce4ce2c46ee6143824b8",
+      "archive_sha256": "93425cd715b959f7325909de708d297baecaa950b3c8ce4ce2c46ee6143824b8",
+      "transformations": []
+    },
+    {
+      "path": "docs/akm-design-constraints.md",
+      "source_sha256": "22e976461b266c32055da109edb7347a1ec911fefc74b731073d0e8dc8150741",
+      "archive_sha256": "43340308e1513348b80b3a1ffa5e7dd3f9568dda1a941fd8ab3fea5d7524f9b6",
+      "transformations": [
+        "local_manufacturer_document_link_to_official_url"
+      ]
+    },
+    {
+      "path": "docs/android-platform-feasibility.md",
+      "source_sha256": "01134f067c608530c568784e6a1d77c522bb6a26fb1f8fe0fcd983fcc390902c",
+      "archive_sha256": "01134f067c608530c568784e6a1d77c522bb6a26fb1f8fe0fcd983fcc390902c",
+      "transformations": []
+    },
+    {
+      "path": "docs/architecture-options.md",
+      "source_sha256": "f6c63e49d5ef6c6133fe849ac187d0f87ebe359548e392183d3460eade4db2b3",
+      "archive_sha256": "f6c63e49d5ef6c6133fe849ac187d0f87ebe359548e392183d3460eade4db2b3",
+      "transformations": []
+    },
+    {
+      "path": "docs/audio-acceptance.md",
+      "source_sha256": "861a58cc5c9c5547c31a5523ad0d03ab9650cbe3fe2d9d16fab4f548b2d9549e",
+      "archive_sha256": "861a58cc5c9c5547c31a5523ad0d03ab9650cbe3fe2d9d16fab4f548b2d9549e",
+      "transformations": []
+    },
+    {
+      "path": "docs/control-analog-candidates.md",
+      "source_sha256": "b353f9367b2ccd2da47622e7b5ffd3a88adc08e3a50ec0197fb588559031e05e",
+      "archive_sha256": "bc3b188fb68579e95640a221ce3445d0a1426488e8328352656aa40d609df69f",
+      "transformations": [
+        "local_manufacturer_document_link_to_official_url"
+      ]
+    },
+    {
+      "path": "docs/design-clarifications.md",
+      "source_sha256": "2e5e9443b329d0be2cd1bdb2f9c9b967115ee17120d7fd701fa154ebb130a628",
+      "archive_sha256": "2e5e9443b329d0be2cd1bdb2f9c9b967115ee17120d7fd701fa154ebb130a628",
+      "transformations": []
+    },
+    {
+      "path": "docs/engineering/design-inputs.md",
+      "source_sha256": "5bc474d780ccaea29286a4d709baef58c9f55f2bc84176dbdaa06f426a0bace5",
+      "archive_sha256": "5bc474d780ccaea29286a4d709baef58c9f55f2bc84176dbdaa06f426a0bace5",
+      "transformations": []
+    },
+    {
+      "path": "docs/engineering/traceability.csv",
+      "source_sha256": "dbdc84543e0c244d1eb0ca1c147eda4e2ecea1ece28e731c50f7ddab14f17cf4",
+      "archive_sha256": "d9fa42ed7c2303e079b76cac5d41fc4b261f213897dfc490434a4e22386d4e6f",
+      "transformations": [
+        "csv_crlf_to_lf_for_git"
+      ]
+    },
+    {
+      "path": "docs/evidence/components.json",
+      "source_sha256": "45444658f98435fc15ada5a414358d9dc089e5304f0541e4fa4dcbe7a37b1e0f",
+      "archive_sha256": "45444658f98435fc15ada5a414358d9dc089e5304f0541e4fa4dcbe7a37b1e0f",
+      "transformations": []
+    },
+    {
+      "path": "docs/evidence/netlist-provenance.json",
+      "source_sha256": "ff67ec6b3d468e002b8d87f48e8bbc9af844b2c7837ae91684811d8aa25f8c97",
+      "archive_sha256": "0f483143d551a68624ef46e39ef9a21b769e405ccb6fd43728cdf1068cd55ca5",
+      "transformations": [
+        "portable_json_and_no_extracted_datasheet_text"
+      ]
+    },
+    {
+      "path": "docs/evidence/specs-verification.json",
+      "source_sha256": "c372b13c231f8ea6d107c7cec9aa21d8d50b9eab4f03c557cdbd2417037ead1e",
+      "archive_sha256": "c372b13c231f8ea6d107c7cec9aa21d8d50b9eab4f03c557cdbd2417037ead1e",
+      "transformations": []
+    },
+    {
+      "path": "docs/evidence/task1-2026-10-25/baseline-verification.json",
+      "source_sha256": "2864060ee1b5e302e70d69b4116b1685868a46a65d0d1053000ff407aa6c6fa2",
+      "archive_sha256": "2864060ee1b5e302e70d69b4116b1685868a46a65d0d1053000ff407aa6c6fa2",
+      "transformations": []
+    },
+    {
+      "path": "docs/evidence/task1-2026-10-25/completion.md",
+      "source_sha256": "75a9a65642293d8fa567b96a524a2f728edb518de5ee286821d6980ba15f8e19",
+      "archive_sha256": "3f0dff6812ce4efcbcc9062e0c3a30affc4b1df2e1b9a58b322668247884df4e",
+      "transformations": [
+        "workstation_path_to_portable_marker"
+      ]
+    },
+    {
+      "path": "docs/evidence/task1-2026-10-25/delivery-manifest-v1.json",
+      "source_sha256": "23fce00c58928181d52dd5359be8d90d91adf10b50fe7fdd953232511406f14f",
+      "archive_sha256": "23fce00c58928181d52dd5359be8d90d91adf10b50fe7fdd953232511406f14f",
+      "transformations": []
+    },
+    {
+      "path": "docs/evidence/task1-2026-10-25/delivery-manifest.json",
+      "source_sha256": "fb1f99a709862b734ad1c6f4e8dce9cbca3610e0fcf045c02a831de863ccc13a",
+      "archive_sha256": "fb1f99a709862b734ad1c6f4e8dce9cbca3610e0fcf045c02a831de863ccc13a",
+      "transformations": []
+    },
+    {
+      "path": "docs/evidence/task1-2026-10-25/retrieval.json",
+      "source_sha256": "5164d24e13b15adffbed8a14386c17374300bd6559332b9b93205d894682a122",
+      "archive_sha256": "c673027ee80549277b5c9d31db83bbf9379905017baba6fc0358951d1738b26b",
+      "transformations": [
+        "portable_json_and_no_extracted_datasheet_text"
+      ]
+    },
+    {
+      "path": "docs/evidence/task1-2026-10-25/verification-result-v1.json",
+      "source_sha256": "38d77d95ae56d8e44f6c281c1e16dabb250593ab24ab37883b523bfdace37282",
+      "archive_sha256": "4a44ff39412999a108f68d96fe9d4cf7c19bfebc9d524c00fb7cfcdf1ac3165a",
+      "transformations": [
+        "portable_json_and_no_extracted_datasheet_text"
+      ]
+    },
+    {
+      "path": "docs/evidence/task1-2026-10-25/verification-result.json",
+      "source_sha256": "e7b72a80555006e1bea47c64889edf8f97dc451ceaf68c0b8f103d45066f2b43",
+      "archive_sha256": "a5fddd62a052aac65e01e92d6fcde7fc3477b8fcb0b6d9643be81a2477ec4ecc",
+      "transformations": [
+        "portable_json_and_no_extracted_datasheet_text"
+      ]
+    },
+    {
+      "path": "docs/evidence/task1-2026-10-25/verify.py",
+      "source_sha256": "3354de699a8577a9a690ec73974dbb23c8023c6f5a95c0d78e1661a1cbd50cea",
+      "archive_sha256": "8d8e0e8123e66242a650c9d0b7470b0f70e77792296ebe639488bf5917f35f43",
+      "transformations": [
+        "workstation_path_to_portable_marker"
+      ]
+    },
+    {
+      "path": "docs/existing-design-preflight.md",
+      "source_sha256": "3f8475d72b2423b4cf30d562b9468784307a9453fe6c3caa9d83d57f0fe7aa0a",
+      "archive_sha256": "250db6a654b84f6b794087a9678d1579b36288e47e078337d90a18b43ed99b03",
+      "transformations": [
+        "local_manufacturer_document_link_to_official_url"
+      ]
+    },
+    {
+      "path": "docs/platform-validation-plan.md",
+      "source_sha256": "b81174cc5b9eeca1be08b4e2cb02178d2144d401426eef7dfc74d6e9edf834b7",
+      "archive_sha256": "b81174cc5b9eeca1be08b4e2cb02178d2144d401426eef7dfc74d6e9edf834b7",
+      "transformations": []
+    },
+    {
+      "path": "docs/progress-2026-10-25.md",
+      "source_sha256": "c7ecf06484b798b6883064b14295065b3a9e2c97324db6ee1589935c4061f59f",
+      "archive_sha256": "c7ecf06484b798b6883064b14295065b3a9e2c97324db6ee1589935c4061f59f",
+      "transformations": []
+    },
+    {
+      "path": "docs/reference-source-matrix.md",
+      "source_sha256": "15f2d30723718a25c3e746ff0edc6bb752321ee5d316a41c5c6be6f074a3f1f4",
+      "archive_sha256": "15f2d30723718a25c3e746ff0edc6bb752321ee5d316a41c5c6be6f074a3f1f4",
+      "transformations": []
+    },
+    {
+      "path": "docs/specs/README.md",
+      "source_sha256": "54dcc8fecce7eae0a46a2cc352ad4b80197f20849a675952c67590ac2929f80d",
+      "archive_sha256": "2dbe070f9df480d42fed8836e55fd9a9935f2e0bbc17220b7ffacb67542b347c",
+      "transformations": [
+        "local_manufacturer_document_link_to_official_url"
+      ]
+    },
+    {
+      "path": "docs/specs/adi/manifest.json",
+      "source_sha256": "8f1e582394e4f4263f1a41b150fd4d8c1341ec3820a2db4798f7a492536996b8",
+      "archive_sha256": "8f1e582394e4f4263f1a41b150fd4d8c1341ec3820a2db4798f7a492536996b8",
+      "transformations": []
+    },
+    {
+      "path": "docs/specs/akm/manifest.json",
+      "source_sha256": "c04664e5b3fea55c34d242e2597dea51262e79ca78bdf22554ef0add5d7ae6eb",
+      "archive_sha256": "872c404fa99cb53bd81db5210394e250681efe2ff27b227d9e59942895b51249",
+      "transformations": [
+        "portable_json_and_no_extracted_datasheet_text"
+      ]
+    },
+    {
+      "path": "docs/specs/crystek/manifest.json",
+      "source_sha256": "0e96c7548ca07d2f5dce402210dcc6089a37738275ae6330b473ef938056f3f2",
+      "archive_sha256": "0e96c7548ca07d2f5dce402210dcc6089a37738275ae6330b473ef938056f3f2",
+      "transformations": []
+    },
+    {
+      "path": "docs/specs/raspberrypi/manifest.json",
+      "source_sha256": "be6b2da1812fc81f51a144bda33e07b3ba3e8734633182dbb32de062142516fb",
+      "archive_sha256": "be6b2da1812fc81f51a144bda33e07b3ba3e8734633182dbb32de062142516fb",
+      "transformations": []
+    },
+    {
+      "path": "docs/specs/rrc/manifest.json",
+      "source_sha256": "555efd30c2c86da5d791b305243830333671a9cf86f3965c90a9390a2d189557",
+      "archive_sha256": "555efd30c2c86da5d791b305243830333671a9cf86f3965c90a9390a2d189557",
+      "transformations": []
+    },
+    {
+      "path": "docs/specs/st/manifest.json",
+      "source_sha256": "c5557fb5c3c8ac7db9723ca3b235fb4b09d4a2fb4cd2b59b1838c4295e5e11ee",
+      "archive_sha256": "c5557fb5c3c8ac7db9723ca3b235fb4b09d4a2fb4cd2b59b1838c4295e5e11ee",
+      "transformations": []
+    },
+    {
+      "path": "docs/specs/ti/manifest.json",
+      "source_sha256": "ebcc4907801e168f3b96fe245990bd90b0333b4195d455936258e94193db819e",
+      "archive_sha256": "ebcc4907801e168f3b96fe245990bd90b0333b4195d455936258e94193db819e",
+      "transformations": []
+    },
+    {
+      "path": "docs/specs/xmos/manifest.json",
+      "source_sha256": "8551590dbb9a70979bd4ab27206f4adadd75bb67dd47c49bc6018ade520f2316",
+      "archive_sha256": "8551590dbb9a70979bd4ab27206f4adadd75bb67dd47c49bc6018ade520f2316",
+      "transformations": []
+    },
+    {
+      "path": "docs/superpowers/plans/2026-10-25-streamer-implementation.md",
+      "source_sha256": "aeeac9279a177a87b5b0f7f8a5b5cc25c89d0b38203d4ce5833e304e80552f43",
+      "archive_sha256": "2cb6c73d67020f665c75f188c2e9629218f88754ceac16c0ad6223760b6f29ee",
+      "transformations": [
+        "local_manufacturer_document_link_to_official_url"
+      ]
+    },
+    {
+      "path": "docs/superpowers/specs/2026-10-23-streamer-design.md",
+      "source_sha256": "488032f83f65201db67e078f944fce45c00dad81d8be14f14e9be468b7338cf4",
+      "archive_sha256": "2d7d9c06e0ff6fbf544df1e461a4ce091445a650311f15533eb9e1afc899310d",
+      "transformations": [
+        "local_manufacturer_document_link_to_official_url"
+      ]
+    },
+    {
+      "path": "docs/usb-audio-feasibility.md",
+      "source_sha256": "035780c401958c8deb25a4b34bf98aa6853f613fc7914a69fc876dbba4fb25eb",
+      "archive_sha256": "035780c401958c8deb25a4b34bf98aa6853f613fc7914a69fc876dbba4fb25eb",
+      "transformations": []
+    }
+  ]
+}

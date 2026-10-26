@@ -1,0 +1,200 @@
+[
+  {
+    "ref": "C1",
+    "value": "100µF",
+    "footprint": "Capacitor_SMD:CP_Elec_4x3",
+    "datasheet": null
+  },
+  {
+    "ref": "C2",
+    "value": "0.1µF",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "C3",
+    "value": "47μF",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "C4",
+    "value": "4.7μF",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "C5",
+    "value": "4.7μF",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "C6",
+    "value": "47μF",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "C7",
+    "value": "4.7μF",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "C8",
+    "value": "47μF",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "C9",
+    "value": "4.7μF",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "C10",
+    "value": "47μF",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "C11",
+    "value": "4.7μF",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "C12",
+    "value": "47μF",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "J1",
+    "value": "Conn_01x04_Shielded",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "J3",
+    "value": "Conn_Coaxial_x2_Isolated",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "R1",
+    "value": "50kΩ",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "R2",
+    "value": "100kΩ",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "R3",
+    "value": "14kΩ",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "R4",
+    "value": "14kΩ",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "R5",
+    "value": "50kΩ",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "R6",
+    "value": "14kΩ",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "R7",
+    "value": "50kΩ",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "R8",
+    "value": "14kΩ",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "R9",
+    "value": "18kΩ",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "R10",
+    "value": "14kΩ",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "R11",
+    "value": "33kΩ",
+    "footprint": null,
+    "datasheet": null
+  },
+  {
+    "ref": "U1",
+    "value": "AK4191EQ",
+    "footprint": "Package_QFP:HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm",
+    "datasheet": null
+  },
+  {
+    "ref": "U2",
+    "value": "CCHD-957",
+    "footprint": "Audio_Module:CCHD-957",
+    "datasheet": null
+  },
+  {
+    "ref": "U3",
+    "value": "AK4499EX",
+    "footprint": "Package_QFP:HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm",
+    "datasheet": "https://www.akm.com/global/en/products/audio/audio-dac/ak4499exeq/?utm_source=chatgpt.com"
+  },
+  {
+    "ref": "U4",
+    "value": "LT3045xDD",
+    "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm",
+    "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3045fa.pdf"
+  },
+  {
+    "ref": "U5",
+    "value": "LT3045xDD",
+    "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm",
+    "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3045fa.pdf"
+  },
+  {
+    "ref": "U6",
+    "value": "LT3045xDD",
+    "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm",
+    "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3045fa.pdf"
+  },
+  {
+    "ref": "U7",
+    "value": "LT3045xDD",
+    "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm",
+    "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3045fa.pdf"
+  },
+  {
+    "ref": "U8",
+    "value": "LT3045xDD",
+    "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm",
+    "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3045fa.pdf"
+  }
+]

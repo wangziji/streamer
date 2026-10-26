@@ -1,0 +1,114 @@
+[
+  {
+    "manufacturer": "ti",
+    "model": "BQ76952",
+    "file": "BQ76952.pdf",
+    "source_url": "https://www.ti.com/lit/ds/symlink/bq76952.pdf",
+    "retrieved_at_utc": "2026-10-25T13:17:08.356849+00:00",
+    "selection_status": "candidate_not_selected",
+    "final_url": "https://www.ti.com/lit/ds/symlink/bq76952.pdf",
+    "http_status": 200,
+    "status": "downloaded_parsed_revision_review_pending",
+    "sha256": "5d89ba9a52308a06a4361157e715061cf4f9e7292990248d4d6b66123156e3a9",
+    "page_count": 87,
+    "bytes": 4107435,
+    "validation": {
+      "all_pages_parsed": true
+    }
+  },
+  {
+    "manufacturer": "ti",
+    "model": "TPS55288",
+    "file": "TPS55288.pdf",
+    "source_url": "https://www.ti.com/lit/ds/symlink/tps55288.pdf",
+    "retrieved_at_utc": "2026-10-25T13:17:08.357195+00:00",
+    "selection_status": "candidate_not_selected",
+    "final_url": "https://www.ti.com/lit/ds/symlink/tps55288.pdf",
+    "http_status": 200,
+    "status": "downloaded_parsed_revision_review_pending",
+    "sha256": "2b60a3054038493ae5dcdeb58d1f87c27397a886c60a8696376fa6e4d594dfbc",
+    "page_count": 55,
+    "bytes": 3726365,
+    "validation": {
+      "all_pages_parsed": true
+    }
+  },
+  {
+    "manufacturer": "rrc",
+    "model": "RRC2054",
+    "file": "RRC2054-technical.pdf",
+    "source_url": "https://www.rrc-ps.com/fileadmin/Dokumente/Gen1/DS_RRC2054_E.pdf",
+    "retrieved_at_utc": "2026-10-25T13:17:08.357281+00:00",
+    "selection_status": "candidate_not_selected",
+    "final_url": "https://www.rrc-ps.com/fileadmin/Dokumente/Gen1/DS_RRC2054_E.pdf",
+    "http_status": 200,
+    "status": "downloaded_parsed_revision_review_pending",
+    "sha256": "368da265c706e17644a8a1662d742942a53509e006c86f81e0d9676f73ba0281",
+    "page_count": 2,
+    "bytes": 346288,
+    "validation": {
+      "all_pages_parsed": true
+    }
+  },
+  {
+    "manufacturer": "rrc",
+    "model": "RRC2054-2",
+    "file": "RRC2054-2-datasheet.pdf",
+    "source_url": "https://www.rrc-ps.com/fileadmin/Dokumente/Data-Sheets/DS_RRC2054-2.pdf",
+    "retrieved_at_utc": "2026-10-25T13:17:08.357358+00:00",
+    "selection_status": "candidate_not_selected",
+    "final_url": "https://www.rrc-ps.com/fileadmin/Dokumente/Data-Sheets/DS_RRC2054-2.pdf",
+    "http_status": 200,
+    "status": "downloaded_parsed_revision_review_pending",
+    "sha256": "49a746b170e66a4852c3a25c5eeb143e254276060669f41d4c6e8c3f6bd6a0de",
+    "page_count": 7,
+    "bytes": 1003357,
+    "validation": {
+      "all_pages_parsed": true
+    }
+  },
+  {
+    "manufacturer": "st",
+    "model": "STM32G0B1CBT6",
+    "file": "RM0444.pdf",
+    "source_url": "https://www.st.com/resource/en/reference_manual/DM00371828-.pdf",
+    "retrieved_at_utc": "2026-10-25T13:17:08.357412+00:00",
+    "selection_status": "candidate_not_selected",
+    "final_url": "https://www.st.com/resource/en/reference_manual/DM00371828-.pdf",
+    "http_status": 200,
+    "status": "downloaded_parsed_revision_review_pending",
+    "sha256": "0b9146260790b48735631e7735c60c42b900415c7b519ee7623c10e3d96faec3",
+    "page_count": 1384,
+    "bytes": 17180597,
+    "validation": {
+      "all_pages_parsed": true
+    }
+  },
+  {
+    "manufacturer": "st",
+    "model": "STM32G0B1CBT6",
+    "file": "ES0548.pdf",
+    "source_url": "https://www.st.com/resource/en/errata_sheet/es0548-stm32g0b1xbxcxe-device-errata-stmicroelectronics.pdf",
+    "retrieved_at_utc": "2026-10-25T13:17:08.357470+00:00",
+    "selection_status": "candidate_not_selected",
+    "final_url": "https://www.st.com/resource/en/errata_sheet/es0548-stm32g0b1xbxcxe-device-errata-stmicroelectronics.pdf",
+    "http_status": 200,
+    "status": "downloaded_parsed_revision_review_pending",
+    "sha256": "4ffa38122d3a686c859e01d087528aea0fa1457e5fae3bf2acae974c901ed2e5",
+    "page_count": 31,
+    "bytes": 1398648,
+    "validation": {
+      "all_pages_parsed": true
+    }
+  },
+  {
+    "manufacturer": "xmos",
+    "model": "XU316 software",
+    "file": null,
+    "source_url": "https://www.xmos.com/download/sw_usb_audio%289_2_0%29.pdf/",
+    "retrieved_at_utc": "2026-10-25T13:17:08.357515+00:00",
+    "selection_status": "candidate_not_selected",
+    "status": "blocked",
+    "error": "HTTP Error 406: Not Acceptable"
+  }
+]

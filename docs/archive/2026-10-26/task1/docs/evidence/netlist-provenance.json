@@ -1,0 +1,52 @@
+{
+  "source": "<local-project>/AK4499.kicad_sch",
+  "source_sha256": "a136af928d07700d664a06993703a782a3b63c6857a294e8fb753af98a0ad5db",
+  "export": "AK4499-netlist.xml",
+  "export_sha256": "3406e16b24db76d521d21de70874e4721e6698b3fde01aa3587716eb612b6153",
+  "tool": "KiCad CLI 10.0.7",
+  "format": "kicadxml",
+  "source_state": "saved file",
+  "coverage": "all components emitted by netlist export; not an ERC or connectivity verdict",
+  "core_components": [
+    {
+      "reference": "U1",
+      "value": "AK4191EQ",
+      "footprint": "Package_QFP:HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm"
+    },
+    {
+      "reference": "U2",
+      "value": "CCHD-957",
+      "footprint": "Audio_Module:CCHD-957"
+    },
+    {
+      "reference": "U3",
+      "value": "AK4499EX",
+      "footprint": "Package_QFP:HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm"
+    },
+    {
+      "reference": "U4",
+      "value": "LT3045xDD",
+      "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm"
+    },
+    {
+      "reference": "U5",
+      "value": "LT3045xDD",
+      "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm"
+    },
+    {
+      "reference": "U6",
+      "value": "LT3045xDD",
+      "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm"
+    },
+    {
+      "reference": "U7",
+      "value": "LT3045xDD",
+      "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm"
+    },
+    {
+      "reference": "U8",
+      "value": "LT3045xDD",
+      "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm"
+    }
+  ]
+}
